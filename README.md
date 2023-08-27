@@ -4,13 +4,13 @@
 ![alt text](https://static.vecteezy.com/system/resources/thumbnails/000/429/993/small/ArtificialIntelligence_03.jpg "Logo Title Text 1")
 
 ### Análisis del caso
-- texto
+> texto
 
 ### Estado del arte
-- mas texto
+> mas texto
 
 ### Problemática en salud
-- texto
+> texto
 
 #### Contribuyentes
 * Reina Patiño, Christopher Alexander
