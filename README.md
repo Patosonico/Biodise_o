@@ -20,7 +20,7 @@
 ## Problemática en salud
 - texto
 
-### Bibliografía
+### Referencias
 - *Vancouver o IEEE*
   
 Citación [^1].
