@@ -34,3 +34,5 @@ Diez sesiones de biorretroalimentación EMG, con una frecuencia de dos veces por
 
 #### Interfaz de cerebro, computador y realidad aumentada
 La solución propuesta integra una interfaz cerebro-computador, que traduce las representaciones mentales en comandos de control para una prótesis virtual, y una interfaz de AR a cargo de la visualización y la animación de la prótesis virtual. Esto permite que un sujeto tenga un control cognitivo de dicha prótesis, y una retroalimentación visual más real del movimiento de su extremidad ausente. 
+
+##Referencias bibliográficas
