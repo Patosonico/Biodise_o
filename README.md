@@ -49,16 +49,101 @@ Las conclusiones a las que se llegó fueron que los más afectados son jóvenes 
 
 Así mismo, en el estudio de “Análisis de los factores predictores de amputación de extremidades en pacientes con quemaduras eléctricas de alto voltaje”, realizado por Guillermo García Álvarez y  Guillermo Wiegering Cecchi, se estudiaron a 64 pacientes ingresados con quemaduras eléctricas al Servicio de Cirugía Plástica, Reconstructiva y Quemados del Hospital Nacional Arzobispo Loayza durante un período de 5 años, de los cuales, 15 de estos pacientes (9.6%) fueron sometidos a amputaciones de alguna extremidad. El análisis multivariado de los factores de riesgo entre los grupos de amputación y no amputación mostró significación estadística para los niveles de la isoenzima CPK-MB en las primeras 24 horas. Un nivel de CPK-MB sérico por encima de 14,955 U/L predijo alto riesgo de amputación de extremidades con alta especificidad (83%) y sensibilidad (76%). Sólo un paciente con una notable disminución en los niveles de CPKt y CPK-MB tras fasciotomía evitó una amputación mayor de la extremidad [8].
 
+## Conceptos Importantes
+Las quemaduras eléctricas son consideradas un tipo de lesión especial, ya que, su fisiopatología se basa en el entendimiento de las propiedades físicas de la electricidad y la ruta de flujo de corriente a través de órganos y tejidos. El contacto con corriente eléctrica puede derivar en lesiones superficiales y/o profundas, hasta comprometer órganos y tejidos internos o incluso un compromiso multiorgánico. [9]
+
+Las muertes por año a causa de quemaduras eléctricas a nivel mundial son alrededor de 180.000. La edad promedio de este tipo de lesiones se encuentra entre los 11 y 20 años, principalmente debido a la falta de experiencia o conocimiento sobre la manipulación de sistemas eléctricos. La prevalencia es mayor en el género masculino, 91,9% de casos. Este tipo de lesión experimenta una relación de 9:1(masculino:femenino). Afecta principalmente a personas en edad productiva, pues representa la 4ta causa de muerte a nivel laboral. 
+Las personas que trabajan con circuitos eléctricos o en áreas de construcción: 50% sufren accidente de alto voltaje por contacto con líneas de alimentación, 25% por herramientas o maquinarias en mal estado; además, otras causas serían la ignorancia del trabajador y por falta de elementos de protección laboral. Por otro lado, en la población infantil prevalecen quemaduras por corriente de bajo voltaje. 66,74% generando lesiones en la boca por mordedura de cables (0-3 años) o por contacto con tomas de corriente (3-6 años), generalmente ocurren en el hogar. [9] 
+Aspectos generales de la electricidad: 
+
+### Corriente eléctrica: 
+Continua o Directa: es unidireccional, está presente en baterías. Generalmente, produce una sola contracción muscular que retira a la víctima de la fuente de corriente, por lo que es considerada poco peligrosa; sin embargo, del grado de lesión depende del tipo de trauma generado. 
+Alterna: es aquella en la que los electrones cambian de dirección de forma periódica. Es de 3 a 4 veces más peligrosa, ya que genera entre 40-110 contracciones musculares por segundo de forma continua llamadas tetania. Esto puede ocasionar que la corriente eléctrica retenga la víctima impidiendo su liberación del sitio de contacto, aumentando el tiempo de exposición así como aumentar el daño generando contracciones anormales de los músculos torácicos imposibilitando una adecuada respiración y causando ritmos cardíacos anormales. 
+
+	Voltaje: fuerza que permite el movimiento de electrones de un átomo a otro. 
+Bajo voltaje(<1000 voltios): es el tipo de lesión eléctrica más común, las víctimas son mayor mente niños y jóvenes. Las lesiones en las manos y bocas son as cumens y en adulto se presentan por el uso de herramientas defectuosas.
+Alto voltaje(>1000 voltios): es muy frecuente en accidentes laborales, debido al contacto con líneas de alimentación externas. Los tipos de lesiones varían desde lesiones superficiales en la piel hasta lesiones profundas que comprometen los músculos ocasionando rabdomiólisis(descomposición de los músculos dañados, causa la liberación de células musculares a la sangre) y mioglobinuria(resultado de una necrosis muscular aguda), que conducen a insuficiencia renal aguda. Otras manifestaciones son hiperpotasemia(elevación del potasio plasmático >5,5 mEq/L), acidosis, mioglobina en sangre, elevación de la creatinina y creatina fosfoquinasa, además de daño del sistema nervioso.  [9]
+
+### Mecanismos de lesión:
+
+Los 4 principales mecanismos de lesiones producto de la electricidad son: 
+Daño tisular directo: origina alteraciones en el potencial de reposo de la membrana de la célula, generando contracción muscular (tetania). 
+La transformación de energía eléctrica a térmica: genera una extensa destrucción y necrosis coagulativa en los tejidos, producto de la energía térmica. 
+Traumatismos causados por violentas contracciones musculares o caídas, posterior al contacto con la corriente eléctrica. 
+Teoría de la electroporación: se genera alteración de las proteínas de las membranas celulares alterando su función e integridad.
+ Las quemaduras producidas por un agente exógeno, como la electricidad, generalmente son no térmicas; sin embargo, cuando la corriente eléctrica interactúa con los tejidos, esta es transformada a térmica, generando lesión por el calor debido a la resistencia de los mismos.
+ Los componentes no térmicos ocasionan la despolarización de tejidos excitables tales como el corazón, causando paro cardíaco, fibrilación ventricular u otra clase de arritmias. En cerebro hay alteración del estado de conciencia, y la presencia de la corriente eléctrica a nivel del centro respiratorio de la médula puede generar paro respiratorio. 
+En los térmicos, la resistencia que genera la piel al flujo de corriente eléctrica produce calor ocasionando la carbonización de los puntos de contacto, denominados puntos de entrada y/o salida; de allí continúa a través de la extremidad ocasionando el calentamiento del hueso al igual que la ropa que el individuo lleva puesta, que origina cierto grado de quemadura. Las células musculares y nerviosas (tejidos que presentan menor resistencia) son más susceptibles a daños y rupturas por corriente eléctrica .
+ El recorrido que hace la corriente eléctrica en el cuerpo determinará las posibles lesiones; por ejemplo, una quemadura que viaja de un brazo a otro (plano horizontal), en donde el recorrido es cercano al corazón tiene mayor compromiso para la vida que una quemadura eléctrica que tenga entrada en el miembro inferior y pase a suelo. Otros trayectos como la cabeza pueden generar compromiso directo en el cerebro ocasionando paro respiratorio, convulsiones o parálisis.
+ Sin embargo, a diferencia de otro tipo de quemaduras, en las quemaduras eléctricas las heridas leves o superficiales que pueden pasar desapercibidas, suelen ocasionar lesiones realmente graves en órganos internos, como corazón y cerebro. [9]
+
+#### Compromiso por sistema: 
+Sistema cardiovascular: 
+Sistema respiratorio
+Sistema unitario
+Sistema Musculoesquelético
+Sistema nervioso
+Sistema tegumentario
+Sistema gastrointestinal
+Organos de los sentidos
+Choque eléctrico 
+Choque séptico y falla multiorgánica [9]
+
+### Dolor fantasma (DMF): 
+
+Es la sensación dolorosa localizada en una extremidad después de que ésta ha sido amputada. Esta no corresponde al dolor localizado en el muñón ni al dolor de la cicatriz [10].
+El inicio de la percepción del miembro fantasma, se ha observado en el 85-98 % de los casos entre las primeras tres semanas; en el 8 % de los casos, aparece en el primer año posterior de la amputación. Se puede afirmar entonces que la aparición del DMF desaparece según transcurre el tiempo posterior a la amputación [11].
+Según el artículo “Técnicas de en evolución para reducir el dolor del miembro fantasma”, publicado por el, existen 3 factores principales por las cuales se produce el DMF[12].
+Factores periféricos: Tras un corte del nervio, se aprecia universalmente la formación de neuromas. Una característica frecuente asociada a la patología del muñón es la alteración de la sensibilidad en el mismo. En el periodo inmediatamente después de la amputación, la relación existente entre el dolor fantasma y los umbrales de dolor a la presión en el muñón son inversamente proporcionales20. Las sensaciones fantasmas pueden modularse con diversas manipulaciones sobre el muñón21. El golpeteo de los neuromas puede incrementar el dolor fantasma. Tras la anestesia local del muñón, se pueden abolir de forma temporal las sensaciones del miembro fantasma. Los cambios en el flujo sanguíneo, también pueden alterar la percepción del miembro fantasma[12].
+Factores espinales: Se han propuestos dos mecanismos importantes para explicar estos factores.
+La reorganización anatómica que ocurre en la médula espinal después de la lesión periférica del nervio. Es decir, las fibras C desmielinizadas implicadas en la conducción del dolor, normalmente hacen sinapsis en la lámina 1 y 2 del cuerno dorsal. La lesión periférica del nervio puede conducir a la degeneración de estas fibras C desmielinizadas. Las grandes fibras mielinizadas Aβ, que están normalmente implicadas en el tacto, presión y propiocepción brotan de las conexiones de las láminas 3 y 4, dónde normalmente sinapsan, en la lámina 1 y 2, que estaban previamente ocupadas por las fibras C. Este brote dentro de las láminas superficiales puede contribuir al desarrollo del dolor del miembro fantasma, de este modo el estímulo que previamente no era doloroso puede experimentarse como doloroso[12].
+La sensibilización central de las células dorsales del cuerno que sucede en respuesta al aumento del aluvión de estímulos dolorosos sobre el lugar de la amputación. Este estado de hiperexcitabilidad lleva al desarrollo de hiperalgesia, experimentando el paciente una exagerada respuesta a los estímulos nocivos. Los amino ácidos excitadores como el ácido glutámico y el ácido aspártico pueden estar implicados en este proceso de sensibilización, actuando a través de los receptores N-metil D-aspartato (NMDA). Pueden estar implicados otros receptores y neurotransmisorers como la sustancia P y el péptido relacionado con el gen de la calcitonina[12].
+Factores supraespinales: 
+Los estudios realizados con magnetoelectroencefalografía, en humanos y primates, han demostrado la plasticidad funcional de la corteza somatosensorial primaria tras la amputación de miembros, al producirse la reorganización cortical. En los amputados de miembros superiores, el área de la corteza somatosensorial correspondiente a los miembros desaparecidos parece recibir información sensorial de otras áreas del cuerpo que se sinapsan con las áreas adyacentes de la corteza somatosensorial. El homúnculo de Penfield muestra que el área de la cara bordea el área de la mano. Con frecuencia, los amputados de los miembros superiores, cuando se golpean en el rostro, experimentan una sensación simultánea de tacto en la cara y sobre los dedos amputados. La velocidad con la que se suceden estos cambios tras la amputación sugiere que esta reorganización probablemente es el resultado del desenmascaramiento de sinapsis ocultas en la corteza somatosensorial, en lugar de cambios directamente anatómicos. El dolor del miembro fantasma puede surgir de los errores que ocurren en este proceso de "remapeo" cortical, conduciendo a la sobreamplificación del dolor experimentado. También puede haber errores en las modalidades señoriales, experimentando el tacto como dolor [12].
+
+
+![imagen rara](https://github.com/Patosonico/Biodise_o/blob/main/Documentaci%C3%B3n/imagen%20rara.png)
+Figura 02: Esquema propuesto por Penfield - Fuente: Tratamiento neuropsicológico de "dolor de miembro fantasma"- Scielo.
+La Revista Cubana de Anestesiología y Reanimación, indica que en América se realizan un promedio de 150,000 amputaciones anuales, de las cuales, el 60 % presentan DMF (Dolor del Miembro Fantasma). Además, en el 87 % de los amputados que lo padecen, sus síntomas persisten por más de dos años y la incidencia del DMF aumenta en relación con la edad de la persona amputada. [13] 
+
+### TRATAMIENTOS 
+En su gran mayoría los pacientes amputados son manejados por traumatólogos, cirujanos, emergenciólogos, entre otros especialistas que no priorizan el manejo del dolor producido por la amputación y el dolor neuropático secundario, que se manifiesta como: dolor de muñón, sensación de miembro fantasma y dolor de miembro fantasma,  y sólo un 23% de estos pacientes acuden al especialista para manejo del dolor [14].
+
+Los pacientes con mayor riesgo de desarrollar cualquiera de estos tipos de dolor neuropático, son los que tienen antecedentes de dolor previo, difícil cicatrización de heridas, infección de la extremidad amputada, o factores psicosociales como inadecuada dinámica familiar o soporte social. Estudios de seguimiento han evidenciado la persistencia del dolor de miembro fantasma varios años después de la amputación [14].
+
+El dolor neuropático del paciente amputado, prolonga su periodo de incapacidad física al impedir una adecuada terapia, el empleo de prótesis y su posterior reinserción laboral, así como retomar las actividades de la vida diaria, con gran impacto sobre su calidad de vida. Estas personas cuando son tratadas de manera inadecuada pueden presentar depresión, ansiedad y trastornos del sueño [14].
+
+El tratamiento del dolor de miembro fantasma constituye uno de los retos pendientes de solución por parte del estudio del manejo del dolor, se han ensayado distintos tratamientos que van desde medicamentos como los antiepilépticos: carbamazepina, oxcarbazepina, gabapentina, pregabalina, con resultados diversos; el empleo de analgésico opioides como el tramadol; así como el bloqueo de nervios periféricos. Sin embargo, ninguno de ellos ha obtenido resultados totalmente satisfactorios. En general se acepta que el tratamiento de estos pacientes sea de larga duración, con el empleo de múltiples medicamentos o manejo de diversas especialidades a lo largo de su evolución; con un elevado costo comparado con otras patologías [14].
 
 ## Estado del arte
 #### Prótesis mioeléctricas personalizadas de mano con retroalimentación háptica empleando tecnologías de fabricación digital en filamentos de plástico PET reciclado de bajo costo:
-Diseño de una prótesis mioeléctrica transradial personalizable que incluye un modelo de funcionamiento mixto de cuerdas y mecanismos de cuatro barras por cada uno de los dedos:
+Diseño de una prótesis mioeléctrica transradial personalizable que incluye un modelo de funcionamiento mixto de cuerdas y mecanismos de cuatro barras por cada uno de los dedos.[15]
 
 #### Biorretroalimentación EMG para el dolor de miembro fantasma constrictivo
-Diez sesiones de biorretroalimentación EMG, con una frecuencia de dos veces por semana. Además se recolectó por medio de entrevistas semi estructuradas información sobre la atenuación del dolor, las creencias sobre el miembro fantasma y sobre su efecto en la vida cotidiana. 
+Diez sesiones de biorretroalimentación EMG, con una frecuencia de dos veces por semana. Además se recolectó por medio de entrevistas semi estructuradas información sobre la atenuación del dolor, las creencias sobre el miembro fantasma y sobre su efecto en la vida cotidiana. [16]
 
 #### Interfaz de cerebro, computador y realidad aumentada
-La solución propuesta integra una interfaz cerebro-computador, que traduce las representaciones mentales en comandos de control para una prótesis virtual, y una interfaz de AR a cargo de la visualización y la animación de la prótesis virtual. Esto permite que un sujeto tenga un control cognitivo de dicha prótesis, y una retroalimentación visual más real del movimiento de su extremidad ausente. 
+La solución propuesta integra una interfaz cerebro-computador, que traduce las representaciones mentales en comandos de control para una prótesis virtual, y una interfaz de AR a cargo de la visualización y la animación de la prótesis virtual. Esto permite que un sujeto tenga un control cognitivo de dicha prótesis, y una retroalimentación visual más real del movimiento de su extremidad ausente. [17]
+
+## Referencias bibliográficas
+[1] World Health Organization. A WHO plan for burn prevention and care. Ginebra, Suiza: World Health Organization; 2008
+[2]Tian H, Wang L, Xie W, Shen C, Guo G, Liu J, et al. Epidemiologic and clinical characteristics of severe burn patients: results of a retrospective multicenter study in China, 2011–2015. Burns Trauma [Internet]. 2018.
+[3]Solís F F, Domic C C, Saavedra O R, González M A. Incidencia y prevalencia de las lesiones por quemaduras en menores de 20 años. Rev Chil Pediatr [Internet].85(6):674–81. 
+[4] Burns in Peru: A neglected global health crisis [Internet]. Yale Global Health Review. 2015 
+[5]Ferrara MM, Masellis M, Conte F. The philosophy of a burns prevention campaign. En: The Management of Mass Burn Casualties and Fire Disasters. Dordrecht: Springer Netherlands; 2007. p. 314–6.
+[6] Dash S, Arumugam PK, Muthukumar V, Kumath M, Sharma S. Study of clinical pattern of limb loss in electrical burn injuries. Injury. 2021 Jul;52(7):1925-1933.
+[7] La Torre Tang W. Quemaduras Eléctricas: Estudio Clínico-Epidemiológico en el Hospital Nacional Guillermo Almenara Irigoyen, 1997-2001. Universidad Nacional Mayor de San Marcos; 2003.
+[8] García Álvarez G, Wiegering Cecchi G. Análisis de los factores predictores de amputación de extremidades en pacientes con quemaduras eléctricas de alto voltaje. Horiz méd [Internet]. 2015 [cited 2023 Sep 14];15(3):13–9.
+[9]Gonzalez Castro LF, Médico Cirujano Plástico Reconstructivo y Estético, Hospital Universitario de Santander, Bucaramanga, Colombia., Ávila Vargas SV, Quezada Rueda JT, Vivas García SM, Enfermera Jefe, Especialista en Atención de Enfermería del Paciente en Cuidado Crítico. Unidad de cuidados intensivos, Foscal internacional, Floridablanca Santander, Colombia., et al. Fisiopatología de las quemaduras eléctricas: artículo de revisión. Revista Argentina de Cirugía Plástica, Estética y Reparadora [Internet]. 2018;24(2):0051–6. 
+[10]Mas Esquerdo J, Maruenda Fernández R, Robles Sánchez JI. Tratamiento neuropsicológico de “dolor de miembro fantasma”: a propósito de un caso. Sanid Mil [Internet]. 2013 [citado el 14 de septiembre de 2023];69(3):195–202. 
+[11]Fernández LAV. Biorretroalimentación EMG para el dolor de miembro fantasma constrictivo. Un informe de tres casos. Clin Salud [Internet]. 2015;26(2):97–102.
+[12] Kuffler DP. Técnicas en evolución para reducir el dolor del miembro fantasma. Biología y Medicina Experimentales . 2023;248(7):561-572.
+[13] de Armas Mestre J, Pérez RS, Mesa NH. Dolor de miembro fantasma es una complicación frecuente en el paciente amputado. Rev Cuba Anestesiol Reanim [Internet]. 2023
+[14] Lira D, Custodio N, Montesinos R, Bendezú L. Tratamiento del dolor neuropático en pacientes con amputación de extremidades [Internet]. 
+[15]Mathieu L, Borrini L, Murison J-C. Amputaciones y desarticulaciones de los miembros: miembro superior. EMC - Téc Quir - Ortop Traumatol [Internet]. 2021;13(4):1–18. 
+[16] Fernández LAV. Biorretroalimentación EMG para el dolor de miembro fantasma constrictivo. Un informe de tres casos. Clin Salud [Internet]. 2015;26(2):97–102. 
+[17] J.E. Arango, J.C. Mazo, A.P. Palacio (23/04/2013) Sistema para Rehabilitación del Síndrome del Miembro Fantasma utilizando Interfaz Cerebro Computador y Realidad Aumentada[Online]
+[18] Ambron E, Buxbaum LJ, Miller A, Stoll H, Kuchenbecker KJ, Coslett HB. El tratamiento de realidad virtual que muestra la pierna faltante mejora el dolor del miembro fantasma: un pequeño ensayo clínico. Neurorrehabilitación y Reparación Neural.[Online].
 
 ## Patentes
 
