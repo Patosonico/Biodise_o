@@ -128,12 +128,16 @@ La solución propuesta integra una interfaz cerebro-computador, que traduce las 
 ## Patentes
 
 ## Estado comercial
-|     Farabloc [21]    |      Neuromotus [22]     |     Tens [23]      |
-| --------------- -----|:------------------------:| ------------------:|
-| ![image1]            | ![image2])               | ![image3]          |
-| col 2 is        | centered             |   $12 |
-| zebra stripes   | are neat             |    $1 |
+### Farabloc
+	![image](https://github.com/Patosonico/Biodise_o/assets/143341388/f6be1b4d-ade9-43f5-983e-0701b622a3fe)
 
+ 
+### Neuromotus
+	![image](https://github.com/Patosonico/Biodise_o/assets/143341388/7dcb85f0-2d6e-4e7d-a5d7-4306d084232f)
+
+### Tens
+	![image](https://github.com/Patosonico/Biodise_o/assets/143341388/915476b3-13e5-4425-8e97-5196a223e20b)
+ 
 ## Referencias bibliográficas
 [1] World Health Organization. A WHO plan for burn prevention and care. Ginebra, Suiza: World Health Organization; 2008
 
