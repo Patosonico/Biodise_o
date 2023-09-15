@@ -63,10 +63,10 @@ La solución propuesta integra una interfaz cerebro-computador, que traduce las 
 ## Patentes
 
 ## Estado comercial
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Farabloc        | Neuromotus           | Tens  |
+| --------------- |:--------------------:| -----:|
+| col 3 is        | right-aligned        | $1600 |
+| col 2 is        | centered             |   $12 |
+| zebra stripes   | are neat             |    $1 |
 
 ## Referencias bibliográficas
