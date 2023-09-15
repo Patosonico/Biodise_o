@@ -192,8 +192,6 @@ Se colocan electrodos de superficie y un marcador, el cual proporciona informaci
 
 
 ### Tens [23]
-	![image3](https://github.com/Patosonico/Biodise_o/assets/143341388/fd41896e-7908-418a-9005-1e5c27bc269c)
-
 Dispositivo médico para la estimulación nerviosa eléctrica transcutánea (TENS) que utiliza corriente eléctrica de bajo voltaje. Están diseñados para enviar ligeros impulsos eléctricos directamente a través de la piel hasta los músculos, nervios y tejidos subyacentes. Esta estimulación ayuda a aliviar el dolor , estimula el cuerpo para que libere endorfinas y mejora la función muscular. 
 #### Especificaciones del producto:
 - Los electrodos más adecuados son los electrodos cuadrados de 5x5 cm.
@@ -258,7 +256,9 @@ Fire Disasters. Dordrecht: Springer Netherlands; 2007. p. 314–6.
 
 [19]Paola Principe N, Lallemand F, Greco C, Thiroloix S, inventores. TOPICAL PHARMACEUTICAL COMPOSITION IN GEL FORM COMPRISING AT LEAST AMITRIPTYLINE FOR USE IN THE TREATMENT OF NEUROPATHIC PHANTOM LIMB PAIN [Internet]. Patente EE.UU. 17936821. 6 de abril de 2023 [consultado el 14 de septiembre de 2023]. 5 p. Disponible en: https://patentscope.wipo.int/search/en/detail.jsf?docId=US394936844&amp;_cid=P20-LMDPKF-10045-1
 [20]W Boggs J, H Zang R, inventores. SYSTEMS AND METHODS TO PLACE ONE OR MORE LEADS IN TISSUE TO ELECTRICALLY STIMULATE NERVES OF PASSAGE TO TREAT PAIN [Internet]. Patente EE.UU. 17338754. 23 de septiembre de 2021 [consultado el 14 de septiembre de 2023]. 6 p. Disponible en: https://patentscope.wipo.int/search/en/detail.jsf?docId=US336565890&amp;_cid=P20-LMDPKF-10045-1
-
+[21] Castillo M. Amputee Phantom Pain Relief Products [Internet]. Farabloc Development Corporation. [citado el 14 de septiembre de 2023]. Disponible en: https://farabloc.com/applications/amputation-and-phantom-limb-pain-plp/
+[22]  Take control of phantom limb pain with neuromotusTM [Internet]. Integrum. 2019 [cited 2023 Sep 14]. Available from: https://integrum.se/what-we-do/our-products-future-solutions/neuromotus/ 
+[23] Aparatos TENS - Terapia del dolor en casa y sin medicamentos [Internet]. axion Shop. [cited 2023 Sep 15]. Available from: https://axion.shop/es/pages/electroestimulador-tens 
 
 
 
