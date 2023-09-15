@@ -125,6 +125,15 @@ Diez sesiones de biorretroalimentación EMG, con una frecuencia de dos veces por
 #### Interfaz de cerebro, computador y realidad aumentada
 La solución propuesta integra una interfaz cerebro-computador, que traduce las representaciones mentales en comandos de control para una prótesis virtual, y una interfaz de AR a cargo de la visualización y la animación de la prótesis virtual. Esto permite que un sujeto tenga un control cognitivo de dicha prótesis, y una retroalimentación visual más real del movimiento de su extremidad ausente. [17]
 
+## Patentes
+
+## Estado comercial
+| Farabloc        | Neuromotus           | Tens  |
+| --------------- |:--------------------:| -----:|
+| col 3 is        | right-aligned        | $1600 |
+| col 2 is        | centered             |   $12 |
+| zebra stripes   | are neat             |    $1 |
+
 ## Referencias bibliográficas
 [1] World Health Organization. A WHO plan for burn prevention and care. Ginebra, Suiza: World Health Organization; 2008
 
@@ -162,14 +171,3 @@ Fire Disasters. Dordrecht: Springer Netherlands; 2007. p. 314–6.
 [17] J.E. Arango, J.C. Mazo, A.P. Palacio (23/04/2013) Sistema para Rehabilitación del Síndrome del Miembro Fantasma utilizando Interfaz Cerebro Computador y Realidad Aumentada[Online]
 
 [18] Ambron E, Buxbaum LJ, Miller A, Stoll H, Kuchenbecker KJ, Coslett HB. El tratamiento de realidad virtual que muestra la pierna faltante mejora el dolor del miembro fantasma: un pequeño ensayo clínico. Neurorrehabilitación y Reparación Neural.[Online].
-
-## Patentes
-
-## Estado comercial
-| Farabloc        | Neuromotus           | Tens  |
-| --------------- |:--------------------:| -----:|
-| col 3 is        | right-aligned        | $1600 |
-| col 2 is        | centered             |   $12 |
-| zebra stripes   | are neat             |    $1 |
-
-## Referencias bibliográficas
