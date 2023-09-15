@@ -178,7 +178,7 @@ La siguiente patente consiste en una prótesis que presenta una interfaz flexibl
 
 ## Estado comercial
 ### Farabloc [21]
-	![image1](https://github.com/Patosonico/Biodise_o/assets/143341388/f6be1b4d-ade9-43f5-983e-0701b622a3fe)
+	
 Tejido compuesto de nylon y de fibras de acero ultrafinas confeccionado a medida como envoltura o prenda para la zona amputada. Logra bloquear la radiciación irritante de alta frecuencia de campos electromagneticos, lo cual llega a generar dolor en el muñon ya que las terminaciones nerviosas de este se encuentran al descubierto siendo más sensibles que el resto de terminaciones.
 #### Especificaciones del producto:
 - Es versátil, de acción rápida y reutilizable.
@@ -186,13 +186,14 @@ Tejido compuesto de nylon y de fibras de acero ultrafinas confeccionado a medida
 - Precio $179.00 - $240
 
 ### Neuromotus [22]
-	![image2](https://github.com/Patosonico/Biodise_o/assets/143341388/7dcb85f0-2d6e-4e7d-a5d7-4306d084232f)
+	
 Neuromotus emplea realidad aumentada y detección de señales mioeléctricas para tratar el dolor del miembro fantasma. 
 Se colocan electrodos de superficie y un marcador, el cual proporciona información sobre la intención del movimiento en el muñón. Los electrodos detectan las señales eléctricas de los músculos y las decodifican utilizando inteligencia artificial (IA). El paciente puede verse a sí mismo en una pantalla, con un miembro virtual superpuesto, controlado mediante su propio comando neuronal en tiempo real. 
 
 
 ### Tens [23]
-	![image3](https://github.com/Patosonico/Biodise_o/assets/143341388/915476b3-13e5-4425-8e97-5196a223e20b)
+	![image3](https://github.com/Patosonico/Biodise_o/assets/143341388/fd41896e-7908-418a-9005-1e5c27bc269c)
+
 Dispositivo médico para la estimulación nerviosa eléctrica transcutánea (TENS) que utiliza corriente eléctrica de bajo voltaje. Están diseñados para enviar ligeros impulsos eléctricos directamente a través de la piel hasta los músculos, nervios y tejidos subyacentes. Esta estimulación ayuda a aliviar el dolor , estimula el cuerpo para que libere endorfinas y mejora la función muscular. 
 #### Especificaciones del producto:
 - Los electrodos más adecuados son los electrodos cuadrados de 5x5 cm.
