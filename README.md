@@ -127,22 +127,40 @@ La solución propuesta integra una interfaz cerebro-computador, que traduce las 
 
 ## Referencias bibliográficas
 [1] World Health Organization. A WHO plan for burn prevention and care. Ginebra, Suiza: World Health Organization; 2008
+
 [2]Tian H, Wang L, Xie W, Shen C, Guo G, Liu J, et al. Epidemiologic and clinical characteristics of severe burn patients: results of a retrospective multicenter study in China, 2011–2015. Burns Trauma [Internet]. 2018.
+
 [3]Solís F F, Domic C C, Saavedra O R, González M A. Incidencia y prevalencia de las lesiones por quemaduras en menores de 20 años. Rev Chil Pediatr [Internet].85(6):674–81. 
+
 [4] Burns in Peru: A neglected global health crisis [Internet]. Yale Global Health Review. 2015 
-[5]Ferrara MM, Masellis M, Conte F. The philosophy of a burns prevention campaign. En: The Management of Mass Burn Casualties and Fire Disasters. Dordrecht: Springer Netherlands; 2007. p. 314–6.
+
+[5]Ferrara MM, Masellis M, Conte F. The philosophy of a burns prevention campaign. En: The Management of Mass Burn Casualties and
+Fire Disasters. Dordrecht: Springer Netherlands; 2007. p. 314–6.
+
 [6] Dash S, Arumugam PK, Muthukumar V, Kumath M, Sharma S. Study of clinical pattern of limb loss in electrical burn injuries. Injury. 2021 Jul;52(7):1925-1933.
+
 [7] La Torre Tang W. Quemaduras Eléctricas: Estudio Clínico-Epidemiológico en el Hospital Nacional Guillermo Almenara Irigoyen, 1997-2001. Universidad Nacional Mayor de San Marcos; 2003.
+
 [8] García Álvarez G, Wiegering Cecchi G. Análisis de los factores predictores de amputación de extremidades en pacientes con quemaduras eléctricas de alto voltaje. Horiz méd [Internet]. 2015 [cited 2023 Sep 14];15(3):13–9.
-[9]Gonzalez Castro LF, Médico Cirujano Plástico Reconstructivo y Estético, Hospital Universitario de Santander, Bucaramanga, Colombia., Ávila Vargas SV, Quezada Rueda JT, Vivas García SM, Enfermera Jefe, Especialista en Atención de Enfermería del Paciente en Cuidado Crítico. Unidad de cuidados intensivos, Foscal internacional, Floridablanca Santander, Colombia., et al. Fisiopatología de las quemaduras eléctricas: artículo de revisión. Revista Argentina de Cirugía Plástica, Estética y Reparadora [Internet]. 2018;24(2):0051–6. 
+
+[9]Gonzalez Castro LF, Médico Cirujano Plástico Reconstructivo y Estético, Hospital Universitario de Santander, Bucaramanga, Colombia., Ávila Vargas SV, Quezada Rueda JT, Vivas García SM,Enfermera Jefe, Especialista en Atención de Enfermería del Paciente en Cuidado Crítico. Unidad de cuidados intensivos, Foscal internacional, Floridablanca Santander, Colombia., et al. Fisiopatología de las quemaduras eléctricas: artículo de revisión. Revista Argentina de Cirugía Plástica, Estética y Reparadora [Internet]. 2018;24(2):0051–6. 
+
 [10]Mas Esquerdo J, Maruenda Fernández R, Robles Sánchez JI. Tratamiento neuropsicológico de “dolor de miembro fantasma”: a propósito de un caso. Sanid Mil [Internet]. 2013 [citado el 14 de septiembre de 2023];69(3):195–202. 
+
 [11]Fernández LAV. Biorretroalimentación EMG para el dolor de miembro fantasma constrictivo. Un informe de tres casos. Clin Salud [Internet]. 2015;26(2):97–102.
+
 [12] Kuffler DP. Técnicas en evolución para reducir el dolor del miembro fantasma. Biología y Medicina Experimentales . 2023;248(7):561-572.
+
 [13] de Armas Mestre J, Pérez RS, Mesa NH. Dolor de miembro fantasma es una complicación frecuente en el paciente amputado. Rev Cuba Anestesiol Reanim [Internet]. 2023
+
 [14] Lira D, Custodio N, Montesinos R, Bendezú L. Tratamiento del dolor neuropático en pacientes con amputación de extremidades [Internet]. 
+
 [15]Mathieu L, Borrini L, Murison J-C. Amputaciones y desarticulaciones de los miembros: miembro superior. EMC - Téc Quir - Ortop Traumatol [Internet]. 2021;13(4):1–18. 
+
 [16] Fernández LAV. Biorretroalimentación EMG para el dolor de miembro fantasma constrictivo. Un informe de tres casos. Clin Salud [Internet]. 2015;26(2):97–102. 
+
 [17] J.E. Arango, J.C. Mazo, A.P. Palacio (23/04/2013) Sistema para Rehabilitación del Síndrome del Miembro Fantasma utilizando Interfaz Cerebro Computador y Realidad Aumentada[Online]
+
 [18] Ambron E, Buxbaum LJ, Miller A, Stoll H, Kuchenbecker KJ, Coslett HB. El tratamiento de realidad virtual que muestra la pierna faltante mejora el dolor del miembro fantasma: un pequeño ensayo clínico. Neurorrehabilitación y Reparación Neural.[Online].
 
 ## Patentes
