@@ -60,7 +60,7 @@ Aspectos generales de la electricidad:
 Continua o Directa: es unidireccional, está presente en baterías. Generalmente, produce una sola contracción muscular que retira a la víctima de la fuente de corriente, por lo que es considerada poco peligrosa; sin embargo, del grado de lesión depende del tipo de trauma generado. 
 Alterna: es aquella en la que los electrones cambian de dirección de forma periódica. Es de 3 a 4 veces más peligrosa, ya que genera entre 40-110 contracciones musculares por segundo de forma continua llamadas tetania. Esto puede ocasionar que la corriente eléctrica retenga la víctima impidiendo su liberación del sitio de contacto, aumentando el tiempo de exposición así como aumentar el daño generando contracciones anormales de los músculos torácicos imposibilitando una adecuada respiración y causando ritmos cardíacos anormales. 
 
-	Voltaje: fuerza que permite el movimiento de electrones de un átomo a otro. 
+Voltaje: fuerza que permite el movimiento de electrones de un átomo a otro. 
 Bajo voltaje(<1000 voltios): es el tipo de lesión eléctrica más común, las víctimas son mayor mente niños y jóvenes. Las lesiones en las manos y bocas son as cumens y en adulto se presentan por el uso de herramientas defectuosas.
 Alto voltaje(>1000 voltios): es muy frecuente en accidentes laborales, debido al contacto con líneas de alimentación externas. Los tipos de lesiones varían desde lesiones superficiales en la piel hasta lesiones profundas que comprometen los músculos ocasionando rabdomiólisis(descomposición de los músculos dañados, causa la liberación de células musculares a la sangre) y mioglobinuria(resultado de una necrosis muscular aguda), que conducen a insuficiencia renal aguda. Otras manifestaciones son hiperpotasemia(elevación del potasio plasmático >5,5 mEq/L), acidosis, mioglobina en sangre, elevación de la creatinina y creatina fosfoquinasa, además de daño del sistema nervioso.  [9]
 
@@ -126,6 +126,55 @@ Diez sesiones de biorretroalimentación EMG, con una frecuencia de dos veces por
 La solución propuesta integra una interfaz cerebro-computador, que traduce las representaciones mentales en comandos de control para una prótesis virtual, y una interfaz de AR a cargo de la visualización y la animación de la prótesis virtual. Esto permite que un sujeto tenga un control cognitivo de dicha prótesis, y una retroalimentación visual más real del movimiento de su extremidad ausente. [17]
 
 ## Patentes
+### SISTEMAS Y MÉTODOS PARA COLOCAR UNO O MÁS CABLES  EN EL TEJIDO PARA ESTIMULAR ELÉCTRICAMENTE LOS NERVIOS DE PASO PARA TRATAR EL DOLOR:
+Esta patente utiliza el método de estimulación de los “nervios de paso”, el cual consiste en colocar un cable en un tejido que no sea el objetivo; es decir, aquél donde se encuentre y sienta el dolor; no obstante, este tejido debe estar próximo al área de dolor primario, con el fin de aplicar estimulación eléctrica para aliviar el dolor. La utilización de imágenes como ultrasonido o fluoroscopia pueden ayudar, pero no son obligatorias, por lo que no se requieren imágenes.
+La principal ventaja de este método es que no se necesita provocar la contracción muscular para localizar el cable o aliviar el dolor; puede ayudar, pero no es necesario, por lo tanto, permite tratar dolores en los cuales no se puede provocar dicha contracción, lo cuál es una enorme ventaja en el caso del dolor del miembro fantasma, puesto que el área objetivo ha sido amputada y no se encuentra físicamente presente.[18]
+
+### COMPOSICIÓN FARMACÉUTICA TÓPICA EN FORMA DE GEL QUE COMPRENDE AL MENOS AMITRIPTILINA PARA SU USO EN EL TRATAMIENTO DEL DOLOR NEUROPÁTICO DEL EXTREMIDAD FANTASMA:
+Esta patente emplea el uso de técnicas quimioterapéuticas para tratar el dolor neuropático del miembro fantasma, mediante amitriptilina o alguna de sus sales farmacéuticamente aceptables.
+
+La presente invención se refiere a un método para tratar el dolor neuropático del miembro fantasma que comprende la aplicación tópica de una composición farmacéutica que contiene amitriptilina o una de sus sales farmacéuticamente aceptables
+
+La solicitud WO2018/197307 (presentada por Algotherapeutix, y también publicada como US 2020/0197326) y el artículo de Rossignol, J. et al. (“High concentration of topical amitriptyline fortreatment quimioterapia-inducida neuropatías”. Support Care Cancer 27, 3053-3059 (2019)), describen el uso de composiciones tópicas en forma de cremas con una alta concentración de amitriptilina para el tratamiento de post- dolor neuropático periférico de quimioterapia.
+
+En particular, la eficacia a corto y largo plazo de la toxina botulínica A, opioides, antidepresivos, antagonistas del receptor NMDA, anticonvulsivos, calcitoninas y anestésicos locales, para resultados clínicamente relevantes en términos de dolor, calidad de vida, satisfacción con el tratamiento y efectos adversos. sigue siendo incierto.
+
+Sin embargo, el tratamiento con amitriptilina per os no fue satisfactorio y el estudio científico de Robinson, LR et al. (“Trial of Amitriptyline for Relief of Pain in Amputees: Results of a Randomized Controlled Study 1”. Archives of Physical Medicine and Rehabilitation 85, no 1 (2004): 1 6) concluyó particularmente que los resultados obtenidos no favorecen el uso de amitriptilina para el tratamiento del dolor del miembro fantasma, y ​​se necesitan estudios adicionales para desarrollar y probar otros tratamientos potenciales.
+Por lo tanto, existe una necesidad real de desarrollar composiciones farmacéuticas que sean eficaces en el tratamiento del dolor neuropático del miembro fantasma
+
+También es interesante que estas composiciones farmacéuticas induzcan pocos o ningún efecto adverso central.
+Se descubrió sorprendentemente que las composiciones basadas en amitriptilina aplicadas tópicamente permitían tratar eficazmente el dolor neuropático del miembro fantasma.
+Este descubrimiento es aún más sorprendente dado que el dolor neuropático del miembro fantasma y el dolor neuropático inducido por la quimioterapia probablemente no tengan la misma causa.
+
+De hecho, el dolor inducido por la quimioterapia se debe principalmente a la toxicidad química intrínseca de los fármacos utilizados en la quimioterapia, que dañarán directamente los axones y pueden dar lugar a la desmielinización de los nervios.
+
+Mientras que el dolor neuropático del miembro fantasma parece ser el resultado de la plasticidad cerebral y/o modificaciones en los mecanismos neurofisiológicos subyacentes de la transmisión del dolor.
+Sin embargo, las composiciones en forma de crema descritas en la solicitud WO2018/197307 y en el artículo de Rossignol, J. et al, no son del todo satisfactorias en términos de estabilidad en el tiempo.
+
+ De hecho, las cremas son las formas de dosificación utilizadas habitualmente para administrar sustancias activas por vía tópica, ya que generalmente proporcionan un paso transdérmico superior y una buena solubilización de todos los agentes. Sin embargo, la estabilidad fisicoquímica de la composición según la solicitud WO2018/197307 en forma de crema, y ​​más concretamente en forma de emulsión de aceite en agua, no es satisfactoria, particularmente para su uso como medicamento.
+
+El clorhidrato de amitriptilina es un anfífilo anfífilo que es soluble en agua en forma de sal. Sin embargo, se descubrió inesperadamente que la presencia de estos electrolitos es desestabilizadora para las emulsiones de aceite en agua, aparentemente enmascarando la carga superficial de los glóbulos de aceite y alterando los equilibrios de la interfaz aceite/agua. Esta desestabilización induce una separación de fases de la emulsión y, en última instancia, una separación total del aceite y el agua. Al mismo tiempo se produce una reacción química, transmitida por un amarillamiento del color inicialmente blanco de la emulsión. Esta separación de fases y este amarillamiento son problemáticos para una posible comercialización de la composición, en particular como medicamento.
+
+Por lo tanto, existe una necesidad real de desarrollar composiciones farmacéuticas que sean eficaces en el tratamiento del dolor neuropático del miembro fantasma, que induzcan pocos o ningún efecto adverso sistémico y que sean particularmente estables en el tiempo y la temperatura.
+
+Más particularmente, es interesante que la composición farmacéutica tenga una buena estabilidad fisicoquímica incluso a una concentración alta de amitriptilina (es decir, incluso a una concentración de al menos 10% en peso de amitriptilina con respecto al peso total de la composición).
+
+ También es interesante que la composición tenga buenas cualidades de uso.
+ Sin embargo, se descubrió sorprendentemente que una composición farmacéutica tópica en forma de gel acuoso que comprende al menos amitriptilina y/o una de sus sales farmacéuticamente aceptables, con un contenido total de amitriptilina y/o una de sus sales farmacéuticamente aceptables entre 10 y 30% en peso con respecto al peso total de la composición, permite tratar eficazmente el dolor neuropático del miembro fantasma y presenta una buena estabilidad fisicoquímica en el tiempo.
+Por tanto, la invención se refiere a un método para tratar el dolor neuropático del miembro fantasma que comprende la aplicación tópica de una composición farmacéutica en forma de gel acuoso que contiene del 10 al 30% en peso, respecto del peso total de la composición, de amitriptilina y/o una de sus sales farmacéuticamente aceptables.
+Se observó que la composición según la invención es particularmente eficaz para el tratamiento del dolor neuropático del miembro fantasma.
+
+ Más particularmente, la composición según la invención es muy eficaz para el tratamiento del dolor neuropático que surge tras la amputación o la desaferenciación de un miembro (por ejemplo, una mano, un antebrazo o una pierna).
+También se observó que la composición farmacéutica según la invención ayuda a facilitar la penetración de la amitriptilina a través de la piel con bajo paso sistémico, y así obtener una buena eficacia terapéutica.
+ La composición según la invención tiene además una biodisponibilidad potenciada, preferentemente en concentraciones de amitriptilina y/o de una de sus sales farmacéuticamente aceptables del 10 al 25% en peso y en particular entre el 10 y el 20% en peso con respecto al total. peso de la composición. De hecho, en concentraciones elevadas, la amitriptilina tiende a reorganizarse, induciendo la formación de agregados capaces de limitar la biodisponibilidad.
+Además, las composiciones según la invención son particularmente estables en el tiempo a temperatura ambiente, pero también a temperaturas de almacenamiento más altas. Las composiciones según la invención se sometieron a estudios de estabilidad en condiciones de temperatura ambiente (25°C) durante al menos 24 meses y temperatura acelerada (40°C) durante 6 meses. Según estos estudios, las composiciones según la invención no cambiaron su aspecto visual ni física (viscosidad) ni químicamente (pH, dosificación de sustancia activa y productos de degradación).
+ Una composición según la invención también sufrió una degradación forzada en condiciones de alta acidez, alta alcalinidad, calor, luz y condiciones oxidativas. Los productos de degradación observados se mantuvieron dentro de los límites aceptables en la norma ICH Q3B (Consejo Internacional de Armonización).[19]
+
+
+
+### DISPOSITIVOS VIBRATORIOS PARA EL DOLOR DEL MIEMBRO FANTASMA:
+La siguiente patente consiste en una prótesis que presenta una interfaz flexible que es capaz de adaptarse al miembro residual del usuario, dónde la parte exterior, que no interactúa directamente con el muñón, es más rígida en comparación con la que sí, la cuál está hecha de un material polimérico elastomérico flexible como la silicona o poliuretano. Además, esta zona flexible cuenta con dispositivos vibratorios y almohadillas para darle movimiento y estimulación al muñón. El aspecto más importante a rescatar es su capacidad de adaptarse sin generar incomodidad al miembro residual del usuario, además de brindarle estimulación vibracional.[20]
+
 
 ## Estado comercial
 ### Farabloc
@@ -198,4 +247,12 @@ Fire Disasters. Dordrecht: Springer Netherlands; 2007. p. 314–6.
 
 [17] J.E. Arango, J.C. Mazo, A.P. Palacio (23/04/2013) Sistema para Rehabilitación del Síndrome del Miembro Fantasma utilizando Interfaz Cerebro Computador y Realidad Aumentada[Online]
 
-[18] Ambron E, Buxbaum LJ, Miller A, Stoll H, Kuchenbecker KJ, Coslett HB. El tratamiento de realidad virtual que muestra la pierna faltante mejora el dolor del miembro fantasma: un pequeño ensayo clínico. Neurorrehabilitación y Reparación Neural.[Online].
+[18]W Boggs J, H Zang R, inventores. SYSTEMS AND METHODS TO PLACE ONE OR MORE LEADS IN TISSUE TO ELECTRICALLY STIMULATE NERVES OF PASSAGE TO TREAT PAIN [Internet]. Patente EE.UU. 17338754. 23 de septiembre de 2021 [consultado el 14 de septiembre de 2023]. 6 p. Disponible en: https://patentscope.wipo.int/search/en/detail.jsf?docId=US336565890&amp;_cid=P20-LMDPKF-10045-1
+
+[19]Paola Principe N, Lallemand F, Greco C, Thiroloix S, inventores. TOPICAL PHARMACEUTICAL COMPOSITION IN GEL FORM COMPRISING AT LEAST AMITRIPTYLINE FOR USE IN THE TREATMENT OF NEUROPATHIC PHANTOM LIMB PAIN [Internet]. Patente EE.UU. 17936821. 6 de abril de 2023 [consultado el 14 de septiembre de 2023]. 5 p. Disponible en: https://patentscope.wipo.int/search/en/detail.jsf?docId=US394936844&amp;_cid=P20-LMDPKF-10045-1
+[20]W Boggs J, H Zang R, inventores. SYSTEMS AND METHODS TO PLACE ONE OR MORE LEADS IN TISSUE TO ELECTRICALLY STIMULATE NERVES OF PASSAGE TO TREAT PAIN [Internet]. Patente EE.UU. 17338754. 23 de septiembre de 2021 [consultado el 14 de septiembre de 2023]. 6 p. Disponible en: https://patentscope.wipo.int/search/en/detail.jsf?docId=US336565890&amp;_cid=P20-LMDPKF-10045-1
+
+
+
+
+
