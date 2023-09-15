@@ -128,11 +128,9 @@ La solución propuesta integra una interfaz cerebro-computador, que traduce las 
 ## Patentes
 
 ## Estado comercial
-| Farabloc [21]        | Neuromotus [22]          | Tens [23] |
-| --------------- |:--------------------:| -----:|
-| ![image1](https://github.com/Patosonico/Biodise_o/assets/143341388/53b621f1-11b7-4e60-9f2b-56d60a3808f5) | ![image2](https://github.com/Patosonico/Biodise_o/assets/143341388/a01ea4ea-2f2c-4960-b3e9-938099b265c3)
- | ![image3](https://github.com/Patosonico/Biodise_o/assets/143341388/eedd4288-e244-42c5-a447-a4f3bf09ea59)
- |
+|     Farabloc [21]    |      Neuromotus [22]     |     Tens [23]      |
+| --------------- -----|:------------------------:| ------------------:|
+| ![image1]            | ![image2])               | ![image3]          |
 | col 2 is        | centered             |   $12 |
 | zebra stripes   | are neat             |    $1 |
 
