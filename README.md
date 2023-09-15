@@ -27,7 +27,7 @@ Un estudio realizado en China, indicó que la probabilidad de que un individuo s
 
 Bajo este contexto general, pasamos a estudiar el contexto de nuestro país. En Perú, los datos epidemiológicos sobre la prevalencia de quemaduras resultan escasos. Un estudio basado en datos de una cohorte de niños en 4 países, incluido Perú, estimó una incidencia de lesiones por quemaduras en los niños estudiados del 2,1%. Por otro lado, tomando en cuenta que Perú es un país de ingresos medios en el que el 25,8% de la población vive por debajo de la línea de pobreza nacional, es razonable que la prevalencia de quemaduras en Perú sea significativamente más alta que la cifra dada en China y Chile [4]. Observemos la siguiente gráfica.
 
-[Imagen de WhatsApp 2023-08-31 a las 20 19 28]([https://github.com/Patosonico/Biodise_o/assets/143341388/5d09ebc6-484e-46f8-8c6a-7065b19cb210](https://github.com/Patosonico/Biodise_o/blob/main/Documentaci%C3%B3n/mapa.png))
+![mapa]https://github.com/Patosonico/Biodise_o/assets/143341388/5d09ebc6-484e-46f8-8c6a-7065b19cb210](https://github.com/Patosonico/Biodise_o/blob/main/Documentaci%C3%B3n/mapa.png))
 
 Figura. 01: Incidencia de quemaduras y localización 2019. - Fuente: HIS– Minsa 2019
 
