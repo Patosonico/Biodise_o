@@ -137,6 +137,30 @@ La solución propuesta integra una interfaz cerebro-computador, que traduce las 
 
 ### Tens
 	![image](https://github.com/Patosonico/Biodise_o/assets/143341388/915476b3-13e5-4425-8e97-5196a223e20b)
+
+ ## Lista de requerimientos
+|     Farabloc    |      Neuromotus    |     Tens    |
+|-------------------:------------------------:--------------:|
+| col 2 is        | centered             |   $12 |
+| zebra stripes   | are neat             |    $1 |
+
+## Estrategias
+Producir una prótesis funcional de bajo costo con el objetivo de reducir la sensación del miembro fantasma. 
+
+Implementar la terapia de estimulación por electrodos en una prótesis funcional de bajo costo.
+
+Adaptar una prótesis (funcional) de bajo costo con un sistema para reducir el MFD.
+
+Implementar funcionalidad de vibración en una prótesis funcional
+
+## Conceptos
+Utilización de materiales de bajo costo.
+
+Incorporar un pequeño sistema de estimulación por electrodos que se adhieran a las prótesis.
+
+Utilizar un microcontrolador que permita tener funcionalidad de vibración a una prótesis.
+
+Utilizando el tratamiento de realidad virtual con el apoyo de una prótesis mioeléctrica para potenciar sus resultados
  
 ## Referencias bibliográficas
 [1] World Health Organization. A WHO plan for burn prevention and care. Ginebra, Suiza: World Health Organization; 2008
