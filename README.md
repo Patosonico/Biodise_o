@@ -174,7 +174,7 @@ Además, las composiciones según la invención son particularmente estables en 
 La siguiente patente consiste en una prótesis que presenta una interfaz flexible que es capaz de adaptarse al miembro residual del usuario, dónde la parte exterior, que no interactúa directamente con el muñón, es más rígida en comparación con la que sí, la cuál está hecha de un material polimérico elastomérico flexible como la silicona o poliuretano. Además, esta zona flexible cuenta con dispositivos vibratorios y almohadillas para darle movimiento y estimulación al muñón. El aspecto más importante a rescatar es su capacidad de adaptarse sin generar incomodidad al miembro residual del usuario, además de brindarle estimulación vibracional.[20]
 
 
-## Estado comercial
+## Productos comercial
 ### Farabloc [21]
 	
 Tejido compuesto de nylon y de fibras de acero ultrafinas confeccionado a medida como envoltura o prenda para la zona amputada. Logra bloquear la radiciación irritante de alta frecuencia de campos electromagneticos, lo cual llega a generar dolor en el muñon ya que las terminaciones nerviosas de este se encuentran al descubierto siendo más sensibles que el resto de terminaciones.
@@ -253,9 +253,13 @@ Fire Disasters. Dordrecht: Springer Netherlands; 2007. p. 314–6.
 [18]W Boggs J, H Zang R, inventores. SYSTEMS AND METHODS TO PLACE ONE OR MORE LEADS IN TISSUE TO ELECTRICALLY STIMULATE NERVES OF PASSAGE TO TREAT PAIN [Internet]. Patente EE.UU. 17338754. 23 de septiembre de 2021 [consultado el 14 de septiembre de 2023]. 6 p. Disponible en: https://patentscope.wipo.int/search/en/detail.jsf?docId=US336565890&amp;_cid=P20-LMDPKF-10045-1
 
 [19]Paola Principe N, Lallemand F, Greco C, Thiroloix S, inventores. TOPICAL PHARMACEUTICAL COMPOSITION IN GEL FORM COMPRISING AT LEAST AMITRIPTYLINE FOR USE IN THE TREATMENT OF NEUROPATHIC PHANTOM LIMB PAIN [Internet]. Patente EE.UU. 17936821. 6 de abril de 2023 [consultado el 14 de septiembre de 2023]. 5 p. Disponible en: https://patentscope.wipo.int/search/en/detail.jsf?docId=US394936844&amp;_cid=P20-LMDPKF-10045-1
+
 [20]W Boggs J, H Zang R, inventores. SYSTEMS AND METHODS TO PLACE ONE OR MORE LEADS IN TISSUE TO ELECTRICALLY STIMULATE NERVES OF PASSAGE TO TREAT PAIN [Internet]. Patente EE.UU. 17338754. 23 de septiembre de 2021 [consultado el 14 de septiembre de 2023]. 6 p. Disponible en: https://patentscope.wipo.int/search/en/detail.jsf?docId=US336565890&amp;_cid=P20-LMDPKF-10045-1
+
 [21] Castillo M. Amputee Phantom Pain Relief Products [Internet]. Farabloc Development Corporation. [citado el 14 de septiembre de 2023]. Disponible en: https://farabloc.com/applications/amputation-and-phantom-limb-pain-plp/
+
 [22]  Take control of phantom limb pain with neuromotusTM [Internet]. Integrum. 2019 [cited 2023 Sep 14]. Available from: https://integrum.se/what-we-do/our-products-future-solutions/neuromotus/ 
+
 [23] Aparatos TENS - Terapia del dolor en casa y sin medicamentos [Internet]. axion Shop. [cited 2023 Sep 15]. Available from: https://axion.shop/es/pages/electroestimulador-tens 
 
 
