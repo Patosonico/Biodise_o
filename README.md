@@ -57,6 +57,8 @@ La solución propuesta integra una interfaz cerebro-computador, que traduce las 
 | col 2 is        | centered             |   $12 |
 | zebra stripes   | are neat             |    $1 |
 
+## Propuesta de solución
+
 ## Contribuyentes
 ![Imagen de WhatsApp 2023-08-31 a las 20 19 28](https://github.com/Patosonico/Biodise_o/assets/143341388/5d09ebc6-484e-46f8-8c6a-7065b19cb210)
 
