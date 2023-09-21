@@ -13,15 +13,15 @@ Se ha determinado que presenta incomodidad en los muñones de la mano y dolor en
 La principal necesidad de nuestro usuario es la inserción laboral adaptada. Para ello se ha definido como puntos a tratar fortalecer la musculatura residual de la mano para lograr la independencia. Sin embargo, la principal causa de dolores e incomodidad que presenta en los muñones y factor determinante para laborar es el miembro fantasma doloroso. Debido a que es prácticamente incurable, la solución se inclina en el control de este. 
 
 ### Contexto
-En el estudio de “Análisis de los factores predictores de amputación de extremidades en pacientes con quemaduras eléctricas de alto voltaje”, realizado por Guillermo García Álvarez y  Guillermo Wiegering Cecchi, se estudiaron a 64 pacientes ingresados con quemaduras eléctricas al Servicio de Cirugía Plástica, Reconstructiva y Quemados del Hospital Nacional Arzobispo Loayza durante un período de 5 años, de los cuales, 15 de estos pacientes (9.6%) fueron sometidos a amputaciones de alguna extremidad. El análisis multivariado de los factores de riesgo entre los grupos de amputación y no amputación mostró significación estadística para los niveles de la isoenzima CPK-MB en las primeras 24 horas. Un nivel de CPK-MB sérico por encima de 14,955 U/L predijo alto riesgo de amputación de extremidades con alta especificidad (83%) y sensibilidad (76%). Sólo un paciente con una notable disminución en los niveles de CPKt y CPK-MB tras fasciotomía evitó una amputación mayor de la extremidad [8].
+En el estudio de “Análisis de los factores predictores de amputación de extremidades en pacientes con quemaduras eléctricas de alto voltaje”, realizado por Guillermo García Álvarez y  Guillermo Wiegering Cecchi, se estudiaron a 64 pacientes ingresados con quemaduras eléctricas al Servicio de Cirugía Plástica, Reconstructiva y Quemados del Hospital Nacional Arzobispo Loayza durante un período de 5 años, de los cuales, 15 de estos pacientes (9.6%) fueron sometidos a amputaciones de alguna extremidad. El análisis multivariado de los factores de riesgo entre los grupos de amputación y no amputación mostró significación estadística para los niveles de la isoenzima CPK-MB en las primeras 24 horas. Un nivel de CPK-MB sérico por encima de 14,955 U/L predijo alto riesgo de amputación de extremidades con alta especificidad (83%) y sensibilidad (76%). Sólo un paciente con una notable disminución en los niveles de CPKt y CPK-MB tras fasciotomía evitó una amputación mayor de la extremidad [1].
 
-En su gran mayoría los pacientes amputados son manejados por traumatólogos, cirujanos, emergenciólogos, entre otros especialistas que no priorizan el manejo del dolor producido por la amputación y el dolor neuropático secundario, que se manifiesta como: dolor de muñón, sensación de miembro fantasma y dolor de miembro fantasma,  y sólo un 23% de estos pacientes acuden al especialista para manejo del dolor [14].
+En su gran mayoría los pacientes amputados son manejados por traumatólogos, cirujanos, emergenciólogos, entre otros especialistas que no priorizan el manejo del dolor producido por la amputación y el dolor neuropático secundario, que se manifiesta como: dolor de muñón, sensación de miembro fantasma y dolor de miembro fantasma,  y sólo un 23% de estos pacientes acuden al especialista para manejo del dolor [2].
 
-Los pacientes con mayor riesgo de desarrollar cualquiera de estos tipos de dolor neuropático, son los que tienen antecedentes de dolor previo, difícil cicatrización de heridas, infección de la extremidad amputada, o factores psicosociales como inadecuada dinámica familiar o soporte social. Estudios de seguimiento han evidenciado la persistencia del dolor de miembro fantasma varios años después de la amputación [14].
+Los pacientes con mayor riesgo de desarrollar cualquiera de estos tipos de dolor neuropático, son los que tienen antecedentes de dolor previo, difícil cicatrización de heridas, infección de la extremidad amputada, o factores psicosociales como inadecuada dinámica familiar o soporte social. Estudios de seguimiento han evidenciado la persistencia del dolor de miembro fantasma varios años después de la amputación [2].
 
-El dolor neuropático del paciente amputado, prolonga su periodo de incapacidad física al impedir una adecuada terapia, el empleo de prótesis y su posterior reinserción laboral, así como retomar las actividades de la vida diaria, con gran impacto sobre su calidad de vida. Estas personas cuando son tratadas de manera inadecuada pueden presentar depresión, ansiedad y trastornos del sueño [14].
+El dolor neuropático del paciente amputado, prolonga su periodo de incapacidad física al impedir una adecuada terapia, el empleo de prótesis y su posterior reinserción laboral, así como retomar las actividades de la vida diaria, con gran impacto sobre su calidad de vida. Estas personas cuando son tratadas de manera inadecuada pueden presentar depresión, ansiedad y trastornos del sueño [2].
 
-El tratamiento del dolor de miembro fantasma constituye uno de los retos pendientes de solución por parte del estudio del manejo del dolor, se han ensayado distintos tratamientos que van desde medicamentos como los antiepilépticos: carbamazepina, oxcarbazepina, gabapentina, pregabalina, con resultados diversos; el empleo de analgésico opioides como el tramadol; así como el bloqueo de nervios periféricos. Sin embargo, ninguno de ellos ha obtenido resultados totalmente satisfactorios. En general se acepta que el tratamiento de estos pacientes sea de larga duración, con el empleo de múltiples medicamentos o manejo de diversas especialidades a lo largo de su evolución; con un elevado costo comparado con otras patologías [14].
+El tratamiento del dolor de miembro fantasma constituye uno de los retos pendientes de solución por parte del estudio del manejo del dolor, se han ensayado distintos tratamientos que van desde medicamentos como los antiepilépticos: carbamazepina, oxcarbazepina, gabapentina, pregabalina, con resultados diversos; el empleo de analgésico opioides como el tramadol; así como el bloqueo de nervios periféricos. Sin embargo, ninguno de ellos ha obtenido resultados totalmente satisfactorios. En general se acepta que el tratamiento de estos pacientes sea de larga duración, con el empleo de múltiples medicamentos o manejo de diversas especialidades a lo largo de su evolución; con un elevado costo comparado con otras patologías [2].
 
 ### Dolor fantasma (DMF): 
 
@@ -68,22 +68,9 @@ La solución propuesta integra una interfaz cerebro-computador, que traduce las 
 * Palomino Mozo, Andre Alexis- Coordinador de Investigación y Redacción
 
 ## Referencias bibliográficas
-[1] World Health Organization. A WHO plan for burn prevention and care. Ginebra, Suiza: World Health Organization; 2008
+[1] García Álvarez G, Wiegering Cecchi G. Análisis de los factores predictores de amputación de extremidades en pacientes con quemaduras eléctricas de alto voltaje. Horiz méd [Internet]. 2015 [cited 2023 Sep 14];15(3):13–9.
 
-[2]Tian H, Wang L, Xie W, Shen C, Guo G, Liu J, et al. Epidemiologic and clinical characteristics of severe burn patients: results of a retrospective multicenter study in China, 2011–2015. Burns Trauma [Internet]. 2018.
-
-[3]Solís F F, Domic C C, Saavedra O R, González M A. Incidencia y prevalencia de las lesiones por quemaduras en menores de 20 años. Rev Chil Pediatr [Internet].85(6):674–81. 
-
-[4] Burns in Peru: A neglected global health crisis [Internet]. Yale Global Health Review. 2015 
-
-[5]Ferrara MM, Masellis M, Conte F. The philosophy of a burns prevention campaign. En: The Management of Mass Burn Casualties and
-Fire Disasters. Dordrecht: Springer Netherlands; 2007. p. 314–6.
-
-[6] Dash S, Arumugam PK, Muthukumar V, Kumath M, Sharma S. Study of clinical pattern of limb loss in electrical burn injuries. Injury. 2021 Jul;52(7):1925-1933.
-
-[7] La Torre Tang W. Quemaduras Eléctricas: Estudio Clínico-Epidemiológico en el Hospital Nacional Guillermo Almenara Irigoyen, 1997-2001. Universidad Nacional Mayor de San Marcos; 2003.
-
-[8] García Álvarez G, Wiegering Cecchi G. Análisis de los factores predictores de amputación de extremidades en pacientes con quemaduras eléctricas de alto voltaje. Horiz méd [Internet]. 2015 [cited 2023 Sep 14];15(3):13–9.
+[2] Lira D, Custodio N, Montesinos R, Bendezú L. Tratamiento del dolor neuropático en pacientes con amputación de extremidades [Internet].
 
 [9]Gonzalez Castro LF, Médico Cirujano Plástico Reconstructivo y Estético, Hospital Universitario de Santander, Bucaramanga, Colombia., Ávila Vargas SV, Quezada Rueda JT, Vivas García SM,Enfermera Jefe, Especialista en Atención de Enfermería del Paciente en Cuidado Crítico. Unidad de cuidados intensivos, Foscal internacional, Floridablanca Santander, Colombia., et al. Fisiopatología de las quemaduras eléctricas: artículo de revisión. Revista Argentina de Cirugía Plástica, Estética y Reparadora [Internet]. 2018;24(2):0051–6. 
 
@@ -93,9 +80,7 @@ Fire Disasters. Dordrecht: Springer Netherlands; 2007. p. 314–6.
 
 [12] Kuffler DP. Técnicas en evolución para reducir el dolor del miembro fantasma. Biología y Medicina Experimentales . 2023;248(7):561-572.
 
-[13] de Armas Mestre J, Pérez RS, Mesa NH. Dolor de miembro fantasma es una complicación frecuente en el paciente amputado. Rev Cuba Anestesiol Reanim [Internet]. 2023
-
-[14] Lira D, Custodio N, Montesinos R, Bendezú L. Tratamiento del dolor neuropático en pacientes con amputación de extremidades [Internet]. 
+[13] de Armas Mestre J, Pérez RS, Mesa NH. Dolor de miembro fantasma es una complicación frecuente en el paciente amputado. Rev Cuba Anestesiol Reanim [Internet]. 2023 
 
 [15]Mathieu L, Borrini L, Murison J-C. Amputaciones y desarticulaciones de los miembros: miembro superior. EMC - Téc Quir - Ortop Traumatol [Internet]. 2021;13(4):1–18. 
 
