@@ -44,47 +44,6 @@ La mayor frecuencia de quemaduras eléctricas (84%) acaecieron en el entorno lab
 Las conclusiones a las que se llegó fueron que los más afectados son jóvenes del sexo masculino, entre la tercera y cuarta década de la vida quienes trabajaban como electricistas u obreros industriales; la extensión de las quemaduras eléctricas no comprendía muchas áreas, excepto si se causaron por arco eléctrico y/o fuego debido a quemadura de la ropa del herido; las zonas anatómicas más afectadas por la injuria eléctrica son los miembros superiores e inferiores, las que generalmente sirven de entrada y salida de la corriente; las quemaduras por alto voltaje produjeron 3 veces más quemaduras de III grado que las producidas por bajo voltaje; un mes fue el promedio de estancia hospitalaria y los factores asociados a estadía hospitalaria prolongada fueron: la profundidad y la extensión de la quemadura, la ubicación de la lesión en la zona posterior del tórax y la necesidad de realizar amputación; al estar presente estos factores aumentan en un 2.5 a 3 veces la estadía hospitalaria [7].
 
 Así mismo, en el estudio de “Análisis de los factores predictores de amputación de extremidades en pacientes con quemaduras eléctricas de alto voltaje”, realizado por Guillermo García Álvarez y  Guillermo Wiegering Cecchi, se estudiaron a 64 pacientes ingresados con quemaduras eléctricas al Servicio de Cirugía Plástica, Reconstructiva y Quemados del Hospital Nacional Arzobispo Loayza durante un período de 5 años, de los cuales, 15 de estos pacientes (9.6%) fueron sometidos a amputaciones de alguna extremidad. El análisis multivariado de los factores de riesgo entre los grupos de amputación y no amputación mostró significación estadística para los niveles de la isoenzima CPK-MB en las primeras 24 horas. Un nivel de CPK-MB sérico por encima de 14,955 U/L predijo alto riesgo de amputación de extremidades con alta especificidad (83%) y sensibilidad (76%). Sólo un paciente con una notable disminución en los niveles de CPKt y CPK-MB tras fasciotomía evitó una amputación mayor de la extremidad [8].
-
-## Conceptos Importantes
-Las quemaduras eléctricas son consideradas un tipo de lesión especial, ya que, su fisiopatología se basa en el entendimiento de las propiedades físicas de la electricidad y la ruta de flujo de corriente a través de órganos y tejidos. El contacto con corriente eléctrica puede derivar en lesiones superficiales y/o profundas, hasta comprometer órganos y tejidos internos o incluso un compromiso multiorgánico. [9]
-
-Las muertes por año a causa de quemaduras eléctricas a nivel mundial son alrededor de 180.000. La edad promedio de este tipo de lesiones se encuentra entre los 11 y 20 años, principalmente debido a la falta de experiencia o conocimiento sobre la manipulación de sistemas eléctricos. La prevalencia es mayor en el género masculino, 91,9% de casos. Este tipo de lesión experimenta una relación de 9:1(masculino:femenino). Afecta principalmente a personas en edad productiva, pues representa la 4ta causa de muerte a nivel laboral. 
-Las personas que trabajan con circuitos eléctricos o en áreas de construcción: 50% sufren accidente de alto voltaje por contacto con líneas de alimentación, 25% por herramientas o maquinarias en mal estado; además, otras causas serían la ignorancia del trabajador y por falta de elementos de protección laboral. Por otro lado, en la población infantil prevalecen quemaduras por corriente de bajo voltaje. 66,74% generando lesiones en la boca por mordedura de cables (0-3 años) o por contacto con tomas de corriente (3-6 años), generalmente ocurren en el hogar. [9] 
-Aspectos generales de la electricidad: 
-
-### Corriente eléctrica: 
-Continua o Directa: es unidireccional, está presente en baterías. Generalmente, produce una sola contracción muscular que retira a la víctima de la fuente de corriente, por lo que es considerada poco peligrosa; sin embargo, del grado de lesión depende del tipo de trauma generado. 
-Alterna: es aquella en la que los electrones cambian de dirección de forma periódica. Es de 3 a 4 veces más peligrosa, ya que genera entre 40-110 contracciones musculares por segundo de forma continua llamadas tetania. Esto puede ocasionar que la corriente eléctrica retenga la víctima impidiendo su liberación del sitio de contacto, aumentando el tiempo de exposición así como aumentar el daño generando contracciones anormales de los músculos torácicos imposibilitando una adecuada respiración y causando ritmos cardíacos anormales. 
-
-	Voltaje: fuerza que permite el movimiento de electrones de un átomo a otro. 
-Bajo voltaje(<1000 voltios): es el tipo de lesión eléctrica más común, las víctimas son mayor mente niños y jóvenes. Las lesiones en las manos y bocas son as cumens y en adulto se presentan por el uso de herramientas defectuosas.
-Alto voltaje(>1000 voltios): es muy frecuente en accidentes laborales, debido al contacto con líneas de alimentación externas. Los tipos de lesiones varían desde lesiones superficiales en la piel hasta lesiones profundas que comprometen los músculos ocasionando rabdomiólisis(descomposición de los músculos dañados, causa la liberación de células musculares a la sangre) y mioglobinuria(resultado de una necrosis muscular aguda), que conducen a insuficiencia renal aguda. Otras manifestaciones son hiperpotasemia(elevación del potasio plasmático >5,5 mEq/L), acidosis, mioglobina en sangre, elevación de la creatinina y creatina fosfoquinasa, además de daño del sistema nervioso.  [9]
-
-### Mecanismos de lesión:
-
-Los 4 principales mecanismos de lesiones producto de la electricidad son: 
-Daño tisular directo: origina alteraciones en el potencial de reposo de la membrana de la célula, generando contracción muscular (tetania). 
-La transformación de energía eléctrica a térmica: genera una extensa destrucción y necrosis coagulativa en los tejidos, producto de la energía térmica. 
-Traumatismos causados por violentas contracciones musculares o caídas, posterior al contacto con la corriente eléctrica. 
-Teoría de la electroporación: se genera alteración de las proteínas de las membranas celulares alterando su función e integridad.
- Las quemaduras producidas por un agente exógeno, como la electricidad, generalmente son no térmicas; sin embargo, cuando la corriente eléctrica interactúa con los tejidos, esta es transformada a térmica, generando lesión por el calor debido a la resistencia de los mismos.
- Los componentes no térmicos ocasionan la despolarización de tejidos excitables tales como el corazón, causando paro cardíaco, fibrilación ventricular u otra clase de arritmias. En cerebro hay alteración del estado de conciencia, y la presencia de la corriente eléctrica a nivel del centro respiratorio de la médula puede generar paro respiratorio. 
-En los térmicos, la resistencia que genera la piel al flujo de corriente eléctrica produce calor ocasionando la carbonización de los puntos de contacto, denominados puntos de entrada y/o salida; de allí continúa a través de la extremidad ocasionando el calentamiento del hueso al igual que la ropa que el individuo lleva puesta, que origina cierto grado de quemadura. Las células musculares y nerviosas (tejidos que presentan menor resistencia) son más susceptibles a daños y rupturas por corriente eléctrica .
- El recorrido que hace la corriente eléctrica en el cuerpo determinará las posibles lesiones; por ejemplo, una quemadura que viaja de un brazo a otro (plano horizontal), en donde el recorrido es cercano al corazón tiene mayor compromiso para la vida que una quemadura eléctrica que tenga entrada en el miembro inferior y pase a suelo. Otros trayectos como la cabeza pueden generar compromiso directo en el cerebro ocasionando paro respiratorio, convulsiones o parálisis.
- Sin embargo, a diferencia de otro tipo de quemaduras, en las quemaduras eléctricas las heridas leves o superficiales que pueden pasar desapercibidas, suelen ocasionar lesiones realmente graves en órganos internos, como corazón y cerebro. [9]
-
-#### Compromiso por sistema: 
-Sistema cardiovascular: 
-Sistema respiratorio
-Sistema unitario
-Sistema Musculoesquelético
-Sistema nervioso
-Sistema tegumentario
-Sistema gastrointestinal
-Organos de los sentidos
-Choque eléctrico 
-Choque séptico y falla multiorgánica [9]
-
 ## Dolor fantasma (DMF): 
 
 Es la sensación dolorosa localizada en una extremidad después de que ésta ha sido amputada. Esta no corresponde al dolor localizado en el muñón ni al dolor de la cicatriz [10].
