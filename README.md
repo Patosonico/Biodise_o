@@ -1,19 +1,5 @@
 # Proyecto Biodiseño 
-## Grupo 11
-                           
-
-
-
-![Imagen de WhatsApp 2023-08-31 a las 20 19 28](https://github.com/Patosonico/Biodise_o/assets/143341388/5d09ebc6-484e-46f8-8c6a-7065b19cb210)
-## Contribuyentes
-
-* Reina Patiño, Christopher Alexander - Coordinador de Electronica y Programación 
-* Purisaca Tesen, Yandra Melissa - Coordinadora de Manofactura y Electronica 
-* Porras Cruzado, Valeria Katherine - Coordinadora de Manofactura digital
-* Poma Soto, Eduardo Julian - Coordinador General
-* Cervantes Esponda, Jamilet Marie - Coordinadora de Página Wed
-* Palomino Mozo, Andre Alexis- Coordinador de Investigación y Redacción
-
+## Grupo 1
 
 ## Análisis del caso clínico
 ### Introducción al caso
@@ -38,10 +24,6 @@ La sensibilización central de las células dorsales del cuerno que sucede en re
 Factores supraespinales: 
 Los estudios realizados con magnetoelectroencefalografía, en humanos y primates, han demostrado la plasticidad funcional de la corteza somatosensorial primaria tras la amputación de miembros, al producirse la reorganización cortical. En los amputados de miembros superiores, el área de la corteza somatosensorial correspondiente a los miembros desaparecidos parece recibir información sensorial de otras áreas del cuerpo que se sinapsan con las áreas adyacentes de la corteza somatosensorial. El homúnculo de Penfield muestra que el área de la cara bordea el área de la mano. Con frecuencia, los amputados de los miembros superiores, cuando se golpean en el rostro, experimentan una sensación simultánea de tacto en la cara y sobre los dedos amputados. La velocidad con la que se suceden estos cambios tras la amputación sugiere que esta reorganización probablemente es el resultado del desenmascaramiento de sinapsis ocultas en la corteza somatosensorial, en lugar de cambios directamente anatómicos. El dolor del miembro fantasma puede surgir de los errores que ocurren en este proceso de "remapeo" cortical, conduciendo a la sobreamplificación del dolor experimentado. También puede haber errores en las modalidades señoriales, experimentando el tacto como dolor [12].
 
-
-![imagen rara](https://github.com/Patosonico/Biodise_o/blob/main/Documentaci%C3%B3n/imagen%20rara.png)
-Figura 02: Esquema propuesto por Penfield - Fuente: Tratamiento neuropsicológico de "dolor de miembro fantasma"- Scielo.
-La Revista Cubana de Anestesiología y Reanimación, indica que en América se realizan un promedio de 150,000 amputaciones anuales, de las cuales, el 60 % presentan DMF (Dolor del Miembro Fantasma). Además, en el 87 % de los amputados que lo padecen, sus síntomas persisten por más de dos años y la incidencia del DMF aumenta en relación con la edad de la persona amputada. [13] 
 
 ### TRATAMIENTOS 
 En su gran mayoría los pacientes amputados son manejados por traumatólogos, cirujanos, emergenciólogos, entre otros especialistas que no priorizan el manejo del dolor producido por la amputación y el dolor neuropático secundario, que se manifiesta como: dolor de muñón, sensación de miembro fantasma y dolor de miembro fantasma,  y sólo un 23% de estos pacientes acuden al especialista para manejo del dolor [14].
@@ -72,6 +54,16 @@ La solución propuesta integra una interfaz cerebro-computador, que traduce las 
 |-------------------:------------------------:--------------:|
 | col 2 is        | centered             |   $12 |
 | zebra stripes   | are neat             |    $1 |
+
+## Contribuyentes
+![Imagen de WhatsApp 2023-08-31 a las 20 19 28](https://github.com/Patosonico/Biodise_o/assets/143341388/5d09ebc6-484e-46f8-8c6a-7065b19cb210)
+
+* Reina Patiño, Christopher Alexander - Coordinador de Electronica y Programación 
+* Purisaca Tesen, Yandra Melissa - Coordinadora de Manofactura y Electronica 
+* Porras Cruzado, Valeria Katherine - Coordinadora de Manofactura digital
+* Poma Soto, Eduardo Julian - Coordinador General
+* Cervantes Esponda, Jamilet Marie - Coordinadora de Página Wed
+* Palomino Mozo, Andre Alexis- Coordinador de Investigación y Redacción
 
 ## Referencias bibliográficas
 [1] World Health Organization. A WHO plan for burn prevention and care. Ginebra, Suiza: World Health Organization; 2008
