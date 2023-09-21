@@ -15,17 +15,18 @@
 * Palomino Mozo, Andre Alexis- Coordinador de Investigación y Redacción
 
 
-## Análisis del caso
+## Análisis del caso clínico
+### Introducción al caso
 El caso clínico presenta a un usuario que sufrió quemaduras de cuarto grado en miembro inferior y de tercer grado en miembro superior. Se ha realizado terapias para retomar la posibilidad de caminar y actualmente dispone de una prótesis de miembro inferior. Sin embargo, el paciente comenta que nunca ha usado una prótesis de miembro superior, lo cual produce independencia en su vida diaria. 
 
 Se ha determinado que presenta incomodidad en los muñones de la mano y dolor en la zona del hombro derecho debido a la compensación que debe realizar para hacer uso de su mano derecha. 
 
 La principal necesidad de nuestro usuario es la inserción laboral adaptada. Para ello se ha definido como puntos a tratar fortalecer la musculatura residual de la mano para lograr la independencia. Sin embargo, la principal causa de dolores e incomodidad que presenta en los muñones y factor determinante para laborar es el miembro fantasma doloroso. Debido a que es prácticamente incurable, la solución se inclina en el control de este. 
 
-## Contexto
+### Contexto
 En el estudio de “Análisis de los factores predictores de amputación de extremidades en pacientes con quemaduras eléctricas de alto voltaje”, realizado por Guillermo García Álvarez y  Guillermo Wiegering Cecchi, se estudiaron a 64 pacientes ingresados con quemaduras eléctricas al Servicio de Cirugía Plástica, Reconstructiva y Quemados del Hospital Nacional Arzobispo Loayza durante un período de 5 años, de los cuales, 15 de estos pacientes (9.6%) fueron sometidos a amputaciones de alguna extremidad. El análisis multivariado de los factores de riesgo entre los grupos de amputación y no amputación mostró significación estadística para los niveles de la isoenzima CPK-MB en las primeras 24 horas. Un nivel de CPK-MB sérico por encima de 14,955 U/L predijo alto riesgo de amputación de extremidades con alta especificidad (83%) y sensibilidad (76%). Sólo un paciente con una notable disminución en los niveles de CPKt y CPK-MB tras fasciotomía evitó una amputación mayor de la extremidad [8].
 
-## Dolor fantasma (DMF): 
+### Dolor fantasma (DMF): 
 
 Es la sensación dolorosa localizada en una extremidad después de que ésta ha sido amputada. Esta no corresponde al dolor localizado en el muñón ni al dolor de la cicatriz [10].
 El inicio de la percepción del miembro fantasma, se ha observado en el 85-98 % de los casos entre las primeras tres semanas; en el 8 % de los casos, aparece en el primer año posterior de la amputación. Se puede afirmar entonces que la aparición del DMF desaparece según transcurre el tiempo posterior a la amputación [11].
@@ -63,7 +64,7 @@ La solución propuesta integra una interfaz cerebro-computador, que traduce las 
 
 ## Patentes
 
-## Estado comercial
+## Productos comercial
 
 
 ## Lista de requerimientos
@@ -71,24 +72,6 @@ La solución propuesta integra una interfaz cerebro-computador, que traduce las 
 |-------------------:------------------------:--------------:|
 | col 2 is        | centered             |   $12 |
 | zebra stripes   | are neat             |    $1 |
-
-## Estrategias
-Producir una prótesis funcional de bajo costo con el objetivo de reducir la sensación del miembro fantasma. 
-
-Implementar la terapia de estimulación por electrodos en una prótesis funcional de bajo costo.
-
-Adaptar una prótesis (funcional) de bajo costo con un sistema para reducir el MFD.
-
-Implementar funcionalidad de vibración en una prótesis funcional
-
-## Conceptos
-Utilización de materiales de bajo costo.
-
-Incorporar un pequeño sistema de estimulación por electrodos que se adhieran a las prótesis.
-
-Utilizar un microcontrolador que permita tener funcionalidad de vibración a una prótesis.
-
-Utilizando el tratamiento de realidad virtual con el apoyo de una prótesis mioeléctrica para potenciar sus resultados
 
 ## Referencias bibliográficas
 [1] World Health Organization. A WHO plan for burn prevention and care. Ginebra, Suiza: World Health Organization; 2008
