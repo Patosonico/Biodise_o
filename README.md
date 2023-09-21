@@ -1,5 +1,8 @@
 # Proyecto Biodiseño 
-## Grupo 1
+## Grupo 11
+Bienvenidos al repositorio del grupo 11.
+Curso: Fundamentos de biodiseño.
+Línea de investigación: Biomecanica.
 
 ## Análisis del caso clínico
 ### Introducción al caso
