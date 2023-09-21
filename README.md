@@ -25,26 +25,26 @@ El tratamiento del dolor de miembro fantasma constituye uno de los retos pendien
 
 ### Dolor fantasma (DMF): 
 
-Es la sensación dolorosa localizada en una extremidad después de que ésta ha sido amputada. Esta no corresponde al dolor localizado en el muñón ni al dolor de la cicatriz [10].
-El inicio de la percepción del miembro fantasma, se ha observado en el 85-98 % de los casos entre las primeras tres semanas; en el 8 % de los casos, aparece en el primer año posterior de la amputación. Se puede afirmar entonces que la aparición del DMF desaparece según transcurre el tiempo posterior a la amputación [11].
+Es la sensación dolorosa localizada en una extremidad después de que ésta ha sido amputada. Esta no corresponde al dolor localizado en el muñón ni al dolor de la cicatriz [3].
+El inicio de la percepción del miembro fantasma, se ha observado en el 85-98 % de los casos entre las primeras tres semanas; en el 8 % de los casos, aparece en el primer año posterior de la amputación. Se puede afirmar entonces que la aparición del DMF desaparece según transcurre el tiempo posterior a la amputación [4].
 
-Según el artículo “Técnicas de evolución para reducir el dolor del miembro fantasma”, existen 3 factores principales por las cuales se produce el DMF[12].
+Según el artículo “Técnicas de evolución para reducir el dolor del miembro fantasma”, existen 3 factores principales por las cuales se produce el DMF[5].
 
 Factores | Descripción
 --- | ---
-Factores perifericos | Tras un corte del nervio, se aprecia universalmente la formación de neuromas. Una característica frecuente asociada a la patología del muñón es la alteración de la sensibilidad en el mismo. En el periodo inmediatamente después de la amputación, la relación existente entre el dolor fantasma y los umbrales de dolor a la presión en el muñón son inversamente proporcionales. Las sensaciones fantasmas pueden modularse con diversas manipulaciones sobre el muñón. Los cambios en el flujo sanguíneo, también pueden alterar la percepción del miembro fantasma[12].
-Factores espinales | **Reorganización anatómica de la médula** después de la lesión periferica del nervio. La lesión periférica del nervio puede conducir a la degeneración de las fibras C desmielinizadas (implicadas en la conducción del dolor). Las grandes fibras mielinizadas Aβ (implicadas en el tacto, presión y propiocepción) brotan de las conexiones de las láminas 3 y 4 en la lámina 1 y 2, que estaban previamente ocupadas por las fibras C. Este brote puede contribuir al desarrollo del dolor del miembro fantasma, de este modo el estímulo que previamente no doloroso puede experimentarse como doloroso[12].**Sensibilización central de las células dorsales** del cuerno en respuesta al aumento del aluvión de estímulos dolorosos sobre la amputación. Este estado de hiperexcitabilidad lleva al desarrollo de hiperalgesia, experimentando el paciente exageradas respuesta a los estímulos nocivos. [12]
-Factores supraespinales| En los amputados de miembros superiores, el área de la corteza somatosensorial correspondiente a los miembros desaparecidos parece recibir información sensorial de otras áreas del cuerpo que se sinapsan con las áreas adyacentes de la corteza somatosensorial. La velocidad con la que se suceden estos cambios tras la amputación sugiere que esta reorganización probablemente es el resultado del desenmascaramiento de sinapsis ocultas en la corteza somatosensorial, en lugar de cambios directamente anatómicos. El dolor del miembro fantasma puede surgir de los errores que ocurren en este proceso de "remapeo" cortical, conduciendo a la sobreamplificación del dolor experimentado. También puede haber errores en las modalidades señoriales, experimentando el tacto como dolor [12].
+Factores perifericos | Tras un corte del nervio, se aprecia universalmente la formación de neuromas. Una característica frecuente asociada a la patología del muñón es la alteración de la sensibilidad en el mismo. En el periodo inmediatamente después de la amputación, la relación existente entre el dolor fantasma y los umbrales de dolor a la presión en el muñón son inversamente proporcionales. Las sensaciones fantasmas pueden modularse con diversas manipulaciones sobre el muñón. Los cambios en el flujo sanguíneo, también pueden alterar la percepción del miembro fantasma[5].
+Factores espinales | **Reorganización anatómica de la médula** después de la lesión periferica del nervio. La lesión periférica del nervio puede conducir a la degeneración de las fibras C desmielinizadas (implicadas en la conducción del dolor). Las grandes fibras mielinizadas Aβ (implicadas en el tacto, presión y propiocepción) brotan de las conexiones de las láminas 3 y 4 en la lámina 1 y 2, que estaban previamente ocupadas por las fibras C. Este brote puede contribuir al desarrollo del dolor del miembro fantasma, de este modo el estímulo que previamente no doloroso puede experimentarse como doloroso[5].**Sensibilización central de las células dorsales** del cuerno en respuesta al aumento del aluvión de estímulos dolorosos sobre la amputación. Este estado de hiperexcitabilidad lleva al desarrollo de hiperalgesia, experimentando el paciente exageradas respuesta a los estímulos nocivos. [5]
+Factores supraespinales| En los amputados de miembros superiores, el área de la corteza somatosensorial correspondiente a los miembros desaparecidos parece recibir información sensorial de otras áreas del cuerpo que se sinapsan con las áreas adyacentes de la corteza somatosensorial. La velocidad con la que se suceden estos cambios tras la amputación sugiere que esta reorganización probablemente es el resultado del desenmascaramiento de sinapsis ocultas en la corteza somatosensorial, en lugar de cambios directamente anatómicos. El dolor del miembro fantasma puede surgir de los errores que ocurren en este proceso de "remapeo" cortical, conduciendo a la sobreamplificación del dolor experimentado. También puede haber errores en las modalidades señoriales, experimentando el tacto como dolor [5].
 
 ## Estado del arte
 #### Prótesis mioeléctricas personalizadas de mano con retroalimentación háptica empleando tecnologías de fabricación digital en filamentos de plástico PET reciclado de bajo costo:
-Diseño de una prótesis mioeléctrica transradial personalizable que incluye un modelo de funcionamiento mixto de cuerdas y mecanismos de cuatro barras por cada uno de los dedos.[15]
+Diseño de una prótesis mioeléctrica transradial personalizable que incluye un modelo de funcionamiento mixto de cuerdas y mecanismos de cuatro barras por cada uno de los dedos.[6]
 
 #### Biorretroalimentación EMG para el dolor de miembro fantasma constrictivo
-Diez sesiones de biorretroalimentación EMG, con una frecuencia de dos veces por semana. Además se recolectó por medio de entrevistas semi estructuradas información sobre la atenuación del dolor, las creencias sobre el miembro fantasma y sobre su efecto en la vida cotidiana. [16]
+Diez sesiones de biorretroalimentación EMG, con una frecuencia de dos veces por semana. Además se recolectó por medio de entrevistas semi estructuradas información sobre la atenuación del dolor, las creencias sobre el miembro fantasma y sobre su efecto en la vida cotidiana. [7]
 
 #### Interfaz de cerebro, computador y realidad aumentada
-La solución propuesta integra una interfaz cerebro-computador, que traduce las representaciones mentales en comandos de control para una prótesis virtual, y una interfaz de AR a cargo de la visualización y la animación de la prótesis virtual. Esto permite que un sujeto tenga un control cognitivo de dicha prótesis, y una retroalimentación visual más real del movimiento de su extremidad ausente. [17]
+La solución propuesta integra una interfaz cerebro-computador, que traduce las representaciones mentales en comandos de control para una prótesis virtual, y una interfaz de AR a cargo de la visualización y la animación de la prótesis virtual. Esto permite que un sujeto tenga un control cognitivo de dicha prótesis, y una retroalimentación visual más real del movimiento de su extremidad ausente. [8]
 
 ## Patentes
 
@@ -72,20 +72,14 @@ La solución propuesta integra una interfaz cerebro-computador, que traduce las 
 
 [2] Lira D, Custodio N, Montesinos R, Bendezú L. Tratamiento del dolor neuropático en pacientes con amputación de extremidades [Internet].
 
-[9]Gonzalez Castro LF, Médico Cirujano Plástico Reconstructivo y Estético, Hospital Universitario de Santander, Bucaramanga, Colombia., Ávila Vargas SV, Quezada Rueda JT, Vivas García SM,Enfermera Jefe, Especialista en Atención de Enfermería del Paciente en Cuidado Crítico. Unidad de cuidados intensivos, Foscal internacional, Floridablanca Santander, Colombia., et al. Fisiopatología de las quemaduras eléctricas: artículo de revisión. Revista Argentina de Cirugía Plástica, Estética y Reparadora [Internet]. 2018;24(2):0051–6. 
+[3]Mas Esquerdo J, Maruenda Fernández R, Robles Sánchez JI. Tratamiento neuropsicológico de “dolor de miembro fantasma”: a propósito de un caso. Sanid Mil [Internet]. 2013 [citado el 14 de septiembre de 2023];69(3):195–202. 
 
-[10]Mas Esquerdo J, Maruenda Fernández R, Robles Sánchez JI. Tratamiento neuropsicológico de “dolor de miembro fantasma”: a propósito de un caso. Sanid Mil [Internet]. 2013 [citado el 14 de septiembre de 2023];69(3):195–202. 
+[4]Fernández LAV. Biorretroalimentación EMG para el dolor de miembro fantasma constrictivo. Un informe de tres casos. Clin Salud [Internet]. 2015;26(2):97–102.
 
-[11]Fernández LAV. Biorretroalimentación EMG para el dolor de miembro fantasma constrictivo. Un informe de tres casos. Clin Salud [Internet]. 2015;26(2):97–102.
+[5] Kuffler DP. Técnicas en evolución para reducir el dolor del miembro fantasma. Biología y Medicina Experimentales . 2023;248(7):561-572.
 
-[12] Kuffler DP. Técnicas en evolución para reducir el dolor del miembro fantasma. Biología y Medicina Experimentales . 2023;248(7):561-572.
+[6]Mathieu L, Borrini L, Murison J-C. Amputaciones y desarticulaciones de los miembros: miembro superior. EMC - Téc Quir - Ortop Traumatol [Internet]. 2021;13(4):1–18. 
 
-[13] de Armas Mestre J, Pérez RS, Mesa NH. Dolor de miembro fantasma es una complicación frecuente en el paciente amputado. Rev Cuba Anestesiol Reanim [Internet]. 2023 
+[7] Fernández LAV. Biorretroalimentación EMG para el dolor de miembro fantasma constrictivo. Un informe de tres casos. Clin Salud [Internet]. 2015;26(2):97–102. 
 
-[15]Mathieu L, Borrini L, Murison J-C. Amputaciones y desarticulaciones de los miembros: miembro superior. EMC - Téc Quir - Ortop Traumatol [Internet]. 2021;13(4):1–18. 
-
-[16] Fernández LAV. Biorretroalimentación EMG para el dolor de miembro fantasma constrictivo. Un informe de tres casos. Clin Salud [Internet]. 2015;26(2):97–102. 
-
-[17] J.E. Arango, J.C. Mazo, A.P. Palacio (23/04/2013) Sistema para Rehabilitación del Síndrome del Miembro Fantasma utilizando Interfaz Cerebro Computador y Realidad Aumentada[Online]
-
-[18] Ambron E, Buxbaum LJ, Miller A, Stoll H, Kuchenbecker KJ, Coslett HB. El tratamiento de realidad virtual que muestra la pierna faltante mejora el dolor del miembro fantasma: un pequeño ensayo clínico. Neurorrehabilitación y Reparación Neural.[Online].
+[8] J.E. Arango, J.C. Mazo, A.P. Palacio (23/04/2013) Sistema para Rehabilitación del Síndrome del Miembro Fantasma utilizando Interfaz Cerebro Computador y Realidad Aumentada[Online]
