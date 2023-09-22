@@ -56,13 +56,14 @@ La solución propuesta integra una interfaz cerebro-computador, que traduce las 
 
 
 ## Lista de requerimientos
-|     Farabloc    |      Neuromotus    |     Tens    |
-|-------------------:------------------------:--------------:|
-| col 2 is        | centered             |   $12 |
-| zebra stripes   | are neat             |    $1 |
+|     Funcionales    |     No funcionales    |
+|-------------------:------------------------:|
+| - Estimular mecánicamente a través de vibraciones. - Detectar el movimiento del muñón con un marcador. - Procesar las imágenes y replicar  el movimiento de la persona a través de video en tiempo real. - Crear un miembro en la zona del muñón, a partir de la otra extremidad. | - Ergonómico  - Ligero  - Accesible  - Portatil  - Tamaño de la banda elástica ajustable al muñón (Adaptable)  - No invasivo   |
 
 ## Propuesta de solución
 Dispositivo que utilice la simulación(como un método mejorado de la terapia del espejo) y vibraciones para aliviar el dolor del miembro fantasma.
+
+
 ## Contribuyentes
 ![Imagen de WhatsApp 2023-08-31 a las 20 19 28](https://github.com/Patosonico/Biodise_o/assets/143341388/5d09ebc6-484e-46f8-8c6a-7065b19cb210)
 
