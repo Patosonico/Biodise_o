@@ -56,8 +56,8 @@ La solución propuesta integra una interfaz cerebro-computador, que traduce las 
 
 
 ## Lista de requerimientos
-    Funcionales    |     No funcionales    
-------------------- | ------------------------ |
+ Funcionales | No funcionales
+--- | ---
 - Estimular mecánicamente a través de vibraciones. - Detectar el movimiento del muñón con un marcador. - Procesar las imágenes y replicar  el movimiento de la persona a través de video en tiempo real. - Crear un miembro en la zona del muñón, a partir de la otra extremidad. | - Ergonómico  - Ligero  - Accesible  - Portatil  - Tamaño de la banda elástica ajustable al muñón (Adaptable)  - No invasivo   
 
 ## Propuesta de solución
