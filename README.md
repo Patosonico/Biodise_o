@@ -55,6 +55,17 @@ Dispositivo protésico conformado por una interfaz flexible configurada para est
 ### Sistema utilizado por un teléfono celular para aliviar las molestias de dolor del miembro fantasma [11]
 Se usa un teléfono inteligente con una cámara y un programa de imágenes digitales. Se adquiere una imagen en movimiento de una parte del cuerpo donde se pueda visualizar el miembro perdido, y su parte complementaria con el miembro sano adyacente. El programa elimina la imagen en movimiento del medio torso del sujeto en el sitio de la amputación y lo reemplaza con una imagen especular de la porción complementaria de su extremidad sana adyacente. 
 
+## Productos comerciales
+### NEUROMOTUS - Integrum
+Neuromotus emplea realidad aumentada y detección de señales mioeléctricas para tratar el dolor del miembro fantasma. Se colocan electrodos de superficie y un marcador, el cual proporciona información sobre la intención del movimiento y la ubicación virtual de la extremidad, en el muñón. Los electrodos detectan las señales eléctricas de los músculos y las decodifican utilizando inteligencia artificial (IA). El paciente puede verse a sí mismo en una pantalla, con un miembro virtual superpuesto, controlado mediante su propio comando neuronal en tiempo real. 
+
+### TheraV ELIX 2.0
+TheraV busca aliviar el dolor del miembro fantasma (DMF)sin medicamentos, con dispositivos portátiles que utilizan tecnología de vibración para controlar el DMF.
+ELIX envuelve el muñón y pretende impedir el DMF dando vida a las vías nerviosas sanas, bloqueando a las falsas señales de dolor.
+
+### PneuMOD 
+PneuMOD es un dispositivo háptico modular, puede ejercer presión y calor (frío y calor) de forma simultánea e independiente en distintas partes del cuerpo. El módulo de PneuMOD es una burbuja de silicona accionada neumáticamente con un dispositivo Peltier integrado que puede proporcionar información termo-neumática mediante formas, ubicaciones, patrones y efectos de movimiento. 
+
 ## Lista de requerimientos
  ![image](https://github.com/Patosonico/Biodise_o/assets/143341388/5ab4fecb-b0d0-43be-be62-781a7e88b7c5)
 
