@@ -15,15 +15,11 @@ La principal necesidad de nuestro usuario es la inserción laboral adaptada. Par
 ### Contexto
 En el estudio de “Análisis de los factores predictores de amputación de extremidades en pacientes con quemaduras eléctricas de alto voltaje”, realizado por Guillermo García Álvarez y  Guillermo Wiegering Cecchi, se estudiaron a 64 pacientes ingresados con quemaduras eléctricas al Servicio de Cirugía Plástica, Reconstructiva y Quemados del Hospital Nacional Arzobispo Loayza durante un período de 5 años, de los cuales, 15 de estos pacientes (9.6%) fueron sometidos a amputaciones de alguna extremidad. El análisis multivariado de los factores de riesgo entre los grupos de amputación y no amputación mostró significación estadística para los niveles de la isoenzima CPK-MB en las primeras 24 horas. Un nivel de CPK-MB sérico por encima de 14,955 U/L predijo alto riesgo de amputación de extremidades con alta especificidad (83%) y sensibilidad (76%). Sólo un paciente con una notable disminución en los niveles de CPKt y CPK-MB tras fasciotomía evitó una amputación mayor de la extremidad [1].
 
-En su gran mayoría los pacientes amputados son manejados por traumatólogos, cirujanos, emergenciólogos, entre otros especialistas que no priorizan el manejo del dolor producido por la amputación y el dolor neuropático secundario, que se manifiesta como: dolor de muñón, sensación de miembro fantasma y dolor de miembro fantasma,  y sólo un 23% de estos pacientes acuden al especialista para manejo del dolor [2].
-
-Los pacientes con mayor riesgo de desarrollar cualquiera de estos tipos de dolor neuropático, son los que tienen antecedentes de dolor previo, difícil cicatrización de heridas, infección de la extremidad amputada, o factores psicosociales como inadecuada dinámica familiar o soporte social. Estudios de seguimiento han evidenciado la persistencia del dolor de miembro fantasma varios años después de la amputación [2].
-
 El dolor neuropático del paciente amputado, prolonga su periodo de incapacidad física al impedir una adecuada terapia, el empleo de prótesis y su posterior reinserción laboral, así como retomar las actividades de la vida diaria, con gran impacto sobre su calidad de vida. Estas personas cuando son tratadas de manera inadecuada pueden presentar depresión, ansiedad y trastornos del sueño [2].
 
-El tratamiento del dolor de miembro fantasma constituye uno de los retos pendientes de solución por parte del estudio del manejo del dolor, se han ensayado distintos tratamientos que van desde medicamentos como los antiepilépticos: carbamazepina, oxcarbazepina, gabapentina, pregabalina, con resultados diversos; el empleo de analgésico opioides como el tramadol; así como el bloqueo de nervios periféricos. Sin embargo, ninguno de ellos ha obtenido resultados totalmente satisfactorios. En general se acepta que el tratamiento de estos pacientes sea de larga duración, con el empleo de múltiples medicamentos o manejo de diversas especialidades a lo largo de su evolución; con un elevado costo comparado con otras patologías [2].
+El tratamiento del dolor de miembro fantasma constituye uno de los retos pendientes de solución por parte del estudio del manejo del dolor. Se han ensayado distintos tratamientos que van desde medicamentos como los antiepilépticos: carbamazepina, oxcarbazepina, gabapentina, pregabalina, con resultados diversos; el empleo de analgésico opioides como el tramadol; así como el bloqueo de nervios periféricos. Sin embargo, ninguno de ellos ha obtenido resultados totalmente satisfactorios. En general se acepta que el tratamiento de estos pacientes sea de larga duración, con el empleo de múltiples medicamentos o manejo de diversas especialidades a lo largo de su evolución; con un elevado costo comparado con otras patologías [2].
 
-### Dolor fantasma (DMF): 
+### Dolor del Miembro fantasma (DMF): 
 
 Es la sensación dolorosa localizada en una extremidad después de que ésta ha sido amputada. Esta no corresponde al dolor localizado en el muñón ni al dolor de la cicatriz [3].
 El inicio de la percepción del miembro fantasma, se ha observado en el 85-98 % de los casos entre las primeras tres semanas; en el 8 % de los casos, aparece en el primer año posterior de la amputación. Se puede afirmar entonces que la aparición del DMF desaparece según transcurre el tiempo posterior a la amputación [4].
@@ -36,8 +32,7 @@ Factores perifericos | Tras un corte del nervio, se aprecia universalmente la fo
 Factores espinales | **Reorganización anatómica de la médula** después de la lesión periferica del nervio. La lesión periférica del nervio puede conducir a la degeneración de las fibras C desmielinizadas (implicadas en la conducción del dolor). Las grandes fibras mielinizadas Aβ (implicadas en el tacto, presión y propiocepción) brotan de las conexiones de las láminas 3 y 4 en la lámina 1 y 2, que estaban previamente ocupadas por las fibras C. Este brote puede contribuir al desarrollo del dolor del miembro fantasma, de este modo el estímulo que previamente no doloroso puede experimentarse como doloroso[5].**Sensibilización central de las células dorsales** del cuerno en respuesta al aumento del aluvión de estímulos dolorosos sobre la amputación. Este estado de hiperexcitabilidad lleva al desarrollo de hiperalgesia, experimentando el paciente exageradas respuesta a los estímulos nocivos. [5]
 Factores supraespinales| En los amputados de miembros superiores, el área de la corteza somatosensorial correspondiente a los miembros desaparecidos parece recibir información sensorial de otras áreas del cuerpo que se sinapsan con las áreas adyacentes de la corteza somatosensorial. La velocidad con la que se suceden estos cambios tras la amputación sugiere que esta reorganización probablemente es el resultado del desenmascaramiento de sinapsis ocultas en la corteza somatosensorial, en lugar de cambios directamente anatómicos. El dolor del miembro fantasma puede surgir de los errores que ocurren en este proceso de "remapeo" cortical, conduciendo a la sobreamplificación del dolor experimentado. También puede haber errores en las modalidades señoriales, experimentando el tacto como dolor [5].
 
-### Clínica de problematica:
-
+### Problemática
 Las consecuencias por quemaduras eléctricas resultan ser muy perjudiciales en los afectados, representando la tercera parte las amputaciones como el peor desenlace. De estos afectados, la mayoría presenta síndrome del miembro fantasma y posterior dolor del mismo. Se concluye que existen tratamientos perfeccionables que sean economicamente accesibles para el tratamiento del dolor del miembro fantasma.
 
 ## Estado del arte
@@ -51,6 +46,17 @@ Diez sesiones de biorretroalimentación EMG, con una frecuencia de dos veces por
 La solución propuesta integra una interfaz cerebro-computador, que traduce las representaciones mentales en comandos de control para una prótesis virtual, y una interfaz de AR a cargo de la visualización y la animación de la prótesis virtual. Esto permite que un sujeto tenga un control cognitivo de dicha prótesis, y una retroalimentación visual más real del movimiento de su extremidad ausente. [8]
 
 ## Patentes
+### Tratamiento de rehabilitación en dispositivo portátil, HMD y software usando implantación virtual basado en Realidad virtual/Realidad aumentada [9]
+
+Adapta la terapia espejo en una situación más inmersiva para que aumente su efectividad y pueda ser utilizada con todo tipo de amputación.
+Utiliza 2 sensores de movimeinto que siguen el movimiento del lado contrario al amputado, para poder invertirlo y crear una imagen en el muñon en tiempo real. 
+
+### Dispositivos vibratorios para aliviar el dolor del miembro fantasma [10]
+Dispositivo protésico conformado por una interfaz flexible configurada para estar en contacto con el muñón de un usuario, un conector protésico que incluye una carcasa exterior más rígida que la interfaz flexible y colocada en la zona externa, y uno o más dispositivos vibracionales colocados en conexión con la interfaz flexible para impartir vibración al muñón En una serie de realizaciones, los dispositivos de vibración se incorporan dentro de la interfaz flexible. 
+
+### Sistema utilizado por un teléfono celular para aliviar las molestias de dolor del miembro fantasma [11]
+Se usa un teléfono inteligente con una cámara y un programa de imágenes digitales. Se adquiere una imagen en movimiento de una parte del cuerpo donde se pueda visualizar el miembro perdido, y su parte complementaria con el miembro sano adyacente. El programa elimina la imagen en movimiento del medio torso del sujeto en el sitio de la amputación y lo reemplaza con una imagen especular de la porción complementaria de su extremidad sana adyacente. 
+
 
 ## Productos comercial
 
@@ -89,3 +95,9 @@ Dispositivo que utilice la simulación(como un método mejorado de la terapia de
 [7] Fernández LAV. Biorretroalimentación EMG para el dolor de miembro fantasma constrictivo. Un informe de tres casos. Clin Salud [Internet]. 2015;26(2):97–102. 
 
 [8] J.E. Arango, J.C. Mazo, A.P. Palacio (23/04/2013) Sistema para Rehabilitación del Síndrome del Miembro Fantasma utilizando Interfaz Cerebro Computador y Realidad Aumentada[Online]
+
+[9] Lee JS. REHABILITATION TREATMENT WEARABLE DEVICE, HMD DEVICE, AND SYSTEM USING VIRTUAL IMPLANTATION BASED ON VR/AR [Internet]. Patent B1. KR1020220063906, 2022
+
+[10] Perry B, Fiedler G, Quinn K, inventors. VIBRATORY DEVICES FOR PHANTOM LIMB PAIN [Internet]. US Patent. 20210069458, 2021. 
+
+[11] Wiest PC. SYSTEM AND METHOD UTILIZING A SMART PHONE FOR ALLEVIATING PHANTOM LIMB DISCOMFORT [Internet]. US Patent. 2014114119A1, 2014. 
