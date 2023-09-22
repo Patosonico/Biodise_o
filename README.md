@@ -46,6 +46,7 @@ Diez sesiones de biorretroalimentación EMG, con una frecuencia de dos veces por
 La solución propuesta integra una interfaz cerebro-computador, que traduce las representaciones mentales en comandos de control para una prótesis virtual, y una interfaz de AR a cargo de la visualización y la animación de la prótesis virtual. Esto permite que un sujeto tenga un control cognitivo de dicha prótesis, y una retroalimentación visual más real del movimiento de su extremidad ausente. [8]
 
 ## Patentes
+<<<<<<< HEAD
 ### Tratamiento de rehabilitación en dispositivo portátil, HMD y software usando implantación virtual basado en Realidad virtual/Realidad aumentada [9]
 
 Adapta la terapia espejo en una situación más inmersiva para que aumente su efectividad y pueda ser utilizada con todo tipo de amputación.
@@ -56,19 +57,21 @@ Dispositivo protésico conformado por una interfaz flexible configurada para est
 
 ### Sistema utilizado por un teléfono celular para aliviar las molestias de dolor del miembro fantasma [11]
 Se usa un teléfono inteligente con una cámara y un programa de imágenes digitales. Se adquiere una imagen en movimiento de una parte del cuerpo donde se pueda visualizar el miembro perdido, y su parte complementaria con el miembro sano adyacente. El programa elimina la imagen en movimiento del medio torso del sujeto en el sitio de la amputación y lo reemplaza con una imagen especular de la porción complementaria de su extremidad sana adyacente. 
+=======
+### Tratamiento de rehabilitación en dispositivo portátil, HMD y software usando implantación virtual basado en Realidad virtual/Realidad aumentada [1]
+Adapta la terapia espejo en una situación más inmersiva para que aumente su efectividad y pueda ser utilizada con todo tipo de amputación.
+>>>>>>> 99289e929d2ddd352f75eea67903222bf437dfb4
 
 
 ## Productos comercial
 
 
 ## Lista de requerimientos
-|     Farabloc    |      Neuromotus    |     Tens    |
-|-------------------:------------------------:--------------:|
-| col 2 is        | centered             |   $12 |
-| zebra stripes   | are neat             |    $1 |
+ ![image](https://github.com/Patosonico/Biodise_o/assets/143341388/5ab4fecb-b0d0-43be-be62-781a7e88b7c5)
 
 ## Propuesta de solución
-Dispositivo que utilice la simulación(como un método mejorado de la terapia del espejo) y vibraciones para aliviar el dolor del miembro fantasma.
+Dispositivo que utilice la simulación (como un método mejorado de la terapia del espejo) y vibraciones para aliviar el dolor del miembro fantasma.
+
 ## Contribuyentes
 ![Imagen de WhatsApp 2023-08-31 a las 20 19 28](https://github.com/Patosonico/Biodise_o/assets/143341388/5d09ebc6-484e-46f8-8c6a-7065b19cb210)
 
