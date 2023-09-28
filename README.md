@@ -67,7 +67,8 @@ ELIX envuelve el muñón y pretende impedir el DMF dando vida a las vías nervio
 PneuMOD es un dispositivo háptico modular, puede ejercer presión y calor (frío y calor) de forma simultánea e independiente en distintas partes del cuerpo. El módulo de PneuMOD es una burbuja de silicona accionada neumáticamente con un dispositivo Peltier integrado que puede proporcionar información termo-neumática mediante formas, ubicaciones, patrones y efectos de movimiento. 
 
 ## Lista de requerimientos
- ![image](https://github.com/Patosonico/Biodise_o/assets/143341388/5ab4fecb-b0d0-43be-be62-781a7e88b7c5)
+![image](https://github.com/Patosonico/Biodise_o/assets/143341388/3db8726b-242c-4898-ae55-5f9b8a4e1b8d)
+
 
 ## Propuesta de solución
 Dispositivo que utilice la simulación (como un método mejorado de la terapia del espejo) y vibraciones para aliviar el dolor del miembro fantasma.
