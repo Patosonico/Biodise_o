@@ -56,14 +56,14 @@ Dispositivo protésico conformado por una interfaz flexible configurada para est
 Se usa un teléfono inteligente con una cámara y un programa de imágenes digitales. Se adquiere una imagen en movimiento de una parte del cuerpo donde se pueda visualizar el miembro perdido, y su parte complementaria con el miembro sano adyacente. El programa elimina la imagen en movimiento del medio torso del sujeto en el sitio de la amputación y lo reemplaza con una imagen especular de la porción complementaria de su extremidad sana adyacente. 
 
 ## Productos comerciales
-### NEUROMOTUS - Integrum
+### NEUROMOTUS - Integrum [12]
 Neuromotus emplea realidad aumentada y detección de señales mioeléctricas para tratar el dolor del miembro fantasma. Se colocan electrodos de superficie y un marcador, el cual proporciona información sobre la intención del movimiento y la ubicación virtual de la extremidad, en el muñón. Los electrodos detectan las señales eléctricas de los músculos y las decodifican utilizando inteligencia artificial (IA). El paciente puede verse a sí mismo en una pantalla, con un miembro virtual superpuesto, controlado mediante su propio comando neuronal en tiempo real. 
 
-### TheraV ELIX 2.0
+### TheraV ELIX 2.0 [13]
 TheraV busca aliviar el dolor del miembro fantasma (DMF)sin medicamentos, con dispositivos portátiles que utilizan tecnología de vibración para controlar el DMF.
 ELIX envuelve el muñón y pretende impedir el DMF dando vida a las vías nerviosas sanas, bloqueando a las falsas señales de dolor.
 
-### PneuMOD 
+### PneuMOD [14]
 PneuMOD es un dispositivo háptico modular, puede ejercer presión y calor (frío y calor) de forma simultánea e independiente en distintas partes del cuerpo. El módulo de PneuMOD es una burbuja de silicona accionada neumáticamente con un dispositivo Peltier integrado que puede proporcionar información termo-neumática mediante formas, ubicaciones, patrones y efectos de movimiento. 
 
 ## Lista de requerimientos
@@ -105,3 +105,9 @@ Dispositivo que utilice la simulación (como un método mejorado de la terapia d
 [10] Perry B, Fiedler G, Quinn K, inventors. VIBRATORY DEVICES FOR PHANTOM LIMB PAIN [Internet]. US Patent. 20210069458, 2021. 
 
 [11] Wiest PC. SYSTEM AND METHOD UTILIZING A SMART PHONE FOR ALLEVIATING PHANTOM LIMB DISCOMFORT [Internet]. US Patent. 2014114119A1, 2014. 
+
+[12] Take control of phantom limb pain with neuromotusTM [Internet]. Integrum. 2019. Disponible en: https://integrum.se/what-we-do/our-products-future-solutions/neuromotus/ 
+
+[13] TheraV [Internet]. TheraV New. [citado el 20 de septiembre de 2023]. Disponible en: https://www.therav.me  
+
+[14] Zhang B, Sra M. PneuMod: A modular haptic device with localized pressure eality Software and Technology. New York, NY, USA: ACM; 2021.
