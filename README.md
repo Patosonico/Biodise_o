@@ -74,7 +74,7 @@ PneuMOD es un dispositivo háptico modular, puede ejercer presión y calor (frí
 Dispositivo que utilice la simulación (como un método mejorado de la terapia del espejo) y vibraciones para aliviar el dolor del miembro fantasma.
 
 ### Conoce más de nuestra propuesta: 
- Primer entregable github.com/Patosonico/Biodise_o/blob/main/Documentaci%C3%B3n/Primer%20entregable%201?plain=1#L77
+ Primer entregable (https://github.com/Patosonico/Biodise_o/blob/main/Documentaci%C3%B3n/Primer%20entregable%201?plain=1#L77)
 ## Contribuyentes
 ![Imagen de WhatsApp 2023-08-31 a las 20 19 28](https://github.com/Patosonico/Biodise_o/assets/143341388/5d09ebc6-484e-46f8-8c6a-7065b19cb210)
 
