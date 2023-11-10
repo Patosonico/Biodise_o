@@ -10,4 +10,3 @@ https://github.com/Patosonico/Biodise_o/assets/143547799/0479d6f1-6a7d-4f81-94f4
 
 https://github.com/Patosonico/Biodise_o/assets/143547799/7fe6bccd-7d2d-4755-b9e2-6ce2d662ee38
 
-[Entregable 7 (1).pdf](https://github.com/Patosonico/Biodise_o/files/13318245/Entregable.7.1.pdf)
