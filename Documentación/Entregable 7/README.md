@@ -1,3 +1,7 @@
+### Nuevo link de OneShape
+
+https://cad.onshape.com/documents/bafad15de1ed78a8f6e4d972/w/d6e921c4905e6653d7125df5/e/e9304cf0ed9e309b0a92e80e
+
 ### FOTO DEL CIRCUITO
 
 ![Circuito completo](https://github.com/Patosonico/Biodise_o/assets/143547799/d8aeaa1e-eb38-4a42-b667-79a2eec56dfc)
