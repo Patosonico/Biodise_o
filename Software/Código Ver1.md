@@ -1,3 +1,9 @@
+/******************************************************************************************************************************************
+*Nombre del archivo        : ProyectoTratamientoDMF
+*Autores                   : Grupo 11 
+*Fecha                     : 15/10/23
+*Descripción               : Modula intensidad de vibración y obtiene datos numéricos de posición del MPU6050.
+*******************************************************************************************************************************************/
 // Librerias I2C para controlar el mpu6050
 #include "I2Cdev.h"
 #include "MPU6050.h"
