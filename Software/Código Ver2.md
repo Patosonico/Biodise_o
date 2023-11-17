@@ -1,3 +1,10 @@
+/******************************************************************************************************************************************
+*Nombre del archivo        : ProyectoTratamientoDMF
+*Autores                   : Grupo 11 
+*Fecha                     : 08/11/23
+*Descripción               : Modula intensidad de vibración y lee patrones de movimiento con un sensor MPU6050 en un cubo.
+*******************************************************************************************************************************************/
+
 #include "I2Cdev.h"
 #include "MPU6050_6Axis_MotionApps20.h"
 
