@@ -16,6 +16,8 @@ Bajo este contexto general, pasamos a estudiar el contexto de nuestro país. En 
 una incidencia de lesiones por quemaduras en los niños estudiados del 2,1%. Por otro lado, tomando en cuenta que Perú es un país de ingresos medios en el que el 25,8% de la población vive por debajo de la línea de pobreza nacional, es razonable que la
 prevalencia de quemaduras en Perú sea significativamente más alta que la cifra dada en China y Chile [4]. Observemos la siguiente gráfica.
 
+![Imagen_2 (1)](https://github.com/Patosonico/Biodise_o/assets/143547799/98c906bd-252a-457c-aea8-39318a632db3)
+
 Figura. 01: Incidencia de quemaduras y localización 2019. - Fuente: HIS– Minsa 2019
 
 Según los datos brindados por la base de datos del HIS, se puede identificar que las localizaciones más frecuentes de quemaduras son los extremos distales de los miembros (muñecas, manos, tobillos y pies), seguida de los miembros inferiores,
@@ -261,7 +263,9 @@ miembro fantasma puede surgir de los errores que ocurren en este proceso de
 "remapeo" cortical, conduciendo a la sobreamplificación del dolor experimentado.
 También puede haber errores en las modalidades señoriales, experimentando el
 tacto como dolor [12].
+![Imagen_! (1)](https://github.com/Patosonico/Biodise_o/assets/143547799/7123b10d-b99c-4a6d-959d-ed00c6504f83)
 Figura 02: Esquema propuesto por Penfield - Fuente: Tratamiento
+
 neuropsicológico de "dolor de miembro fantasma"- Scielo.
 La Revista Cubana de Anestesiología y Reanimación, indica que en América se
 realizan un promedio de 150,000 amputaciones anuales, de las cuales, el 60 %
@@ -372,6 +376,9 @@ amputados por accidente de trabajo generaron, de acuerdo a la aplicación del
 indicador para el estudio, 1 568,5 años acumulados de vida productiva potencial
 perdidos AAVPP, con 14,5 AAVPP como promedio”. (AAVPP: Años acumulados de
 vida productiva potencial perdidos).[19]
+
+![Captura de pantalla 2023-11-23 130347](https://github.com/Patosonico/Biodise_o/assets/143547799/0e440c18-eaf0-428f-9d7b-5b9d9a49deb0)
+
 El estudio “Repercusión Ocupacional de las Amputaciones Traumáticas en Dedos de
 la Mano por Accidente de Trabajo”, indica que en su estudio realizado en 112
 trabajadores, “La mano izquierda fue afectada en 50% (56 casos), la mano derecha
