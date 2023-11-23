@@ -25,6 +25,7 @@ en conexión con la interfaz flexible para impartir
 vibración al muñón En una serie de
 realizaciones, los dispositivos de vibración se
 incorporan dentro de la interfaz flexible.
+
 ![Captura de pantalla 2023-11-23 130812](https://github.com/Patosonico/Biodise_o/assets/143547799/e63be5f9-bd80-4b32-8490-48507237660a)
 ![Captura de pantalla 2023-11-23 130822](https://github.com/Patosonico/Biodise_o/assets/143547799/6f899e63-534d-4975-9b9e-d2839ae19dc0)
 
@@ -37,6 +38,7 @@ en el sitio de la amputación y lo reemplaza con una imagen especular de la porc
 complementaria de su extremidad sana adyacente.
 El alivio de la incomodidad del miembro fantasma del sujeto resulta de la
 visualización de las imágenes compuestas disponibles en su teléfono inteligente.
+
 ![Captura de pantalla 2023-11-23 130834](https://github.com/Patosonico/Biodise_o/assets/143547799/eaf3767f-ef9e-4f0e-b1e7-31f6144ec819)
 ![Captura de pantalla 2023-11-23 130841](https://github.com/Patosonico/Biodise_o/assets/143547799/5a9e698a-49ee-4e53-a089-09dfd44d598a)
 
@@ -69,6 +71,7 @@ miembro fantasma en las actividades de la vida diaria se redujo en un 43% y en e
 sueño, un 61%. Dos de cuatro pacientes que estaban tomando medicación redujeron
 su ingesta en un 81%. Las mejoras se mantuvieron 6 meses después del último
 tratamiento. [5]
+
 ![Captura de pantalla 2023-11-23 130849](https://github.com/Patosonico/Biodise_o/assets/143547799/3dc9e5f8-d80e-4784-8ce7-75795786ea0f)
 
 ### 2.TheraV ELIX 2.0
@@ -94,6 +97,7 @@ costuras para una sensación cómoda.
 ● Tipo de batería: Batería recargable de iones de litio de 3,7 V
 ● Tamaño/dimensión: Diámetro: 0,347” (8,80 mm), longitud: 2” (50,8 mm)
 ● Precio: $299.99
+
 ![Captura de pantalla 2023-11-23 130859](https://github.com/Patosonico/Biodise_o/assets/143547799/1e81aa37-b3d4-4f56-8e30-6bd68bda60b8)
 
 ### 3. PneuMOD
@@ -112,9 +116,11 @@ PneuMOD puede montarse con distintas formas,
 logrando crear mangas, diademas y otras formas que pueden llevarse en la mayoría
 de las partes del cuerpo. Asímismo, posee gran potencial para ofrecer estímulo
 háptico multimodal en experiencias de RV inmersival. [8]
+
 ![Captura de pantalla 2023-11-23 130908](https://github.com/Patosonico/Biodise_o/assets/143547799/a2437e76-172d-4bc2-9f52-5c5c6ebc48ea)
 
 ## 3. Lista de requerimientos 
+
 ![Captura de pantalla 2023-11-23 130923](https://github.com/Patosonico/Biodise_o/assets/143547799/fa4567a6-717e-4be3-a0c8-baa6cf416ab0)
 
 ## 4.Propuesta solución
