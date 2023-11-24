@@ -1,0 +1,114 @@
+/**********************************************
+*Nombre del archivo        : nrf24_emisor
+*Autores                   : Grupo 11 (capibaras)
+*Fecha                     : 23/11/23
+*Descripción               : Lee patrones de movimiento con un sensor MPU6050, y envía los datos al nrf24 receptor
+***********************************************/
+
+#include <SPI.h>
+#include <NRFLite.h>
+#include "Wire.h"
+#include "I2Cdev.h"
+#include "MPU6050_6Axis_MotionApps612.h"
+
+
+MPU6050 mpu68(0x68);
+
+//configuración del nrf24
+const static uint8_t RADIO_ID = 1;              
+const static uint8_t DESTINATION_RADIO_ID = 0; //nrf receptor
+const static uint8_t PIN_RADIO_CE = 7;
+const static uint8_t PIN_RADIO_CSN = 8;
+
+
+struct RadioPacket {
+  uint8_t FromRadioId;
+  uint32_t Data;
+};
+
+
+NRFLite _radio;
+RadioPacket _radioData;
+
+
+uint8_t error_code = 0U;      // devuelve 0 = success, !0 = error
+
+void setup() {
+
+  Wire.begin();
+  Wire.setClock(100000);
+  Serial.begin(115200);
+  mpu68.initialize();
+
+  //identifica errores
+  error_code = mpu68.dmpInitialize();
+  if (error_code == 1U) {
+    Serial.print("{\"key\": \"/log\", \"value\": \"device 0x68 initialization failed: initial memory load failed.\", \"level\": \"ERROR\"}\n");
+  }
+  if (error_code == 2U) {
+    Serial.print("{\"key\": \"/log\", \"value\": \"device 0x68 initialization failed: DMP configuration updates failed.\", \"level\": \"ERROR\"}\n");
+  }
+
+  // verifica la conexión
+  if (!mpu68.testConnection()) {
+    Serial.print("{\"key\": \"/log\", \"value\": \"device 0x68 connection failed.\", \"level\": \"ERROR\"}\n"); 
+  }
+
+  // offsets del acelerómetro y giroscopio
+  mpu68.setXGyroOffset(0);
+  mpu68.setYGyroOffset(0);
+  mpu68.setZGyroOffset(0);
+  mpu68.setXAccelOffset(0);
+  mpu68.setYAccelOffset(0);
+  mpu68.setZAccelOffset(0);
+  
+
+  
+  // calibración del MPU6050
+  mpu68.CalibrateAccel(6);
+  mpu68.CalibrateGyro(6);
+  
+
+  // nueva línea en el serial
+  Serial.print("\n");
+
+  // encender DMP
+  Serial.print("{\"key\": \"/log\", \"value\": \"Enabling DMP...\", \"level\": \"DEBUG\"}\n");
+  mpu68.setDMPEnabled(true);
+  Serial.print("{\"key\": \"/log\", \"value\": \"Device ready.\", \"level\": \"INFO\"}\n");
+
+  _radioData.FromRadioId = RADIO_ID;
+
+}
+
+
+void loop() {
+   uint8_t fifo_buffer68[64]; // almacenamiento temporal tipo FIFO 
+  if (!mpu68.dmpGetCurrentFIFOPacket(fifo_buffer68)) {
+    return;
+  }
+
+  Quaternion q68;           // [w, x, y, z]         quaternion 
+
+  mpu68.dmpGetQuaternion(&q68, fifo_buffer68);
+
+  _radioData.Data = q68.x; // dato del mpu6050
+  sendData();
+  Serial.println(q68.x);
+  
+}
+
+
+void sendData(){
+  //para seguir si el funcionamiento es correcto
+  Serial.print("Sending");
+
+  if (_radio.send(DESTINATION_RADIO_ID, &_radioData, sizeof(_radioData))) {
+    Serial.println("...  Success");
+  }
+  else {
+    Serial.println("...  Failed");
+  }
+
+
+}
