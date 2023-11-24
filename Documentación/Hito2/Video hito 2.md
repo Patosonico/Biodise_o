@@ -5,3 +5,8 @@ https://github.com/Patosonico/Biodise_o/assets/143547799/697d3117-a0bd-4318-a051
 
 https://github.com/Patosonico/Biodise_o/assets/143547799/3571c3e2-d51a-4560-b04f-9986532f3bd5
 
+
+### Video de l prueba del moódulo virtual
+Sin embargo, salio fallida puebas pues las direccion en la que se mueve el brazo virtual estan al contrario del movimento real. Esto se puede solucionar multiplicando por -1 a las tres variables x, y y z. Este error se debe a que la caja fue ubicada en la forma equivocada. 
+https://github.com/Patosonico/Biodise_o/assets/143547799/6d1d61a5-0882-44d1-ad19-d2dc0735bb89
+
