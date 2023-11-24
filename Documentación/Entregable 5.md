@@ -1,5 +1,6 @@
 ## Diagrama electrónico del concepto de solución 
-![Schematic_FUNBIO_2023-11-15_page-0001](https://github.com/Patosonico/Biodise_o/assets/143547799/99404dd4-67cb-46a6-83a0-7bf1d272ecbd)
+![Schematic_FUNBIO_2023-11-23_page-0001](https://github.com/Patosonico/Biodise_o/assets/143547799/a9c83a57-f7b9-40b8-8801-a8a11b843864)
+
 ## Modelado 3D del concepto de solución 
 ### Modelado de la caja de componentes
 ![Entregable 5 (2)_page-0002](https://github.com/Patosonico/Biodise_o/assets/143547799/47bcc10c-e050-4f16-8658-f3a730257af7)
