@@ -4,6 +4,9 @@ Bienvenidos al repositorio del grupo 11.
 - Curso: Fundamentos de biodiseño.
 - Línea de investigación: Biomecanica.
 
+## Página Web
+Visita nuestra página web: https://kvib-ar.github.io/ 
+
 ## Análisis del caso clínico
 ### Introducción al caso
 El caso clínico presenta a un usuario que sufrió quemaduras de cuarto grado en miembro inferior y de tercer grado en miembro superior. Se ha realizado terapias para retomar la posibilidad de caminar y actualmente dispone de una prótesis de miembro inferior. Sin embargo, el paciente comenta que nunca ha usado una prótesis de miembro superior, lo cual produce independencia en su vida diaria. 
